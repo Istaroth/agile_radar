@@ -31,22 +31,6 @@ Focus on the why we use it and not how it works.
 Describe the business opportunities and the business value.
 If the technology is necessary to enable another technology, please name it.
 
-<<<<<<< HEAD
-=======
-## Relevant for which units ##
-
-I'm not sure if we really need that categorization. We can add it later if we want to.
-corporations|sme|verticals|consumer
-
-## Strategic category ##
-
-I'm not sure if we really need that categorization. We can add it later if we want to.
-- Category 1: A core technology relevant to one Managing Director
-- Category 2: A core technology relevant for several Managing Directors - managing director specific   
-- Category 3: A core technology relevant for several managing directors - generic
-- Category 4: A core technology not yet mentioned in the business strategy 
-
->>>>>>> master
 ## Technology choices/solutions ##
 
 List our preferred solutions. It's not necessary or a goal to list all possible solutions. Focus on what we use.
