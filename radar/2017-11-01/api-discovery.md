@@ -5,7 +5,8 @@ quadrant:   platforms-and-partners
 
 ---
 
-![state](./../assests/images/item_state_under_review.png)
+![state](./../assets/images/item_state_under_review.png)
+![next try state](./../assets/images/strategic-domain-driven-design-relationships.png)
 
 ## Why? ##
 
