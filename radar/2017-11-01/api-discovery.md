@@ -5,7 +5,7 @@ quadrant:   platforms-and-partners
 
 ---
 
-![state](./../assests/images/loitem_state_under_review.png)
+![state](./../assests/images/item_state_under_review.png)
 
 ## Why? ##
 
