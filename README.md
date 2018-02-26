@@ -137,9 +137,10 @@ A new deployment is triggered whenever the branch **PrepareContent** is changed.
 
 ### Prod-Version ###
 
-The production version is available at [http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/](http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/)
+The production version is available at [http://techradar.haufe.io](http://techradar.haufe.io).
 It reflects the content and version of the **master** branch.
 A new deployment is triggered whenever the branch **master** is changed.
+[http://techradar.haufe.io](http://techradar.haufe.io) is equivalent to [http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/](http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/).
 
 ## Contribute
 

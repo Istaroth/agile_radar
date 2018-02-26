@@ -5,6 +5,8 @@ quadrant:   platforms-and-partners
 
 ---
 
+![state](./../assests/images/loitem_state_under_review.png)
+
 ## Why? ##
 
 The world is moving in a direction where everything will be connected. APIs are a concrete way for apps to communicate and to collaborate.
