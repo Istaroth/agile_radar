@@ -81,6 +81,9 @@ class Header extends React.Component {
             </Link>
           </div>
           <div className="nav__item">
+            <a href="https://chat.haufe.com/channel/technology_radar" target="_blank">Feedback</a>
+          </div>
+          <div className="nav__item">
             <a className="icon-link" href="#" onClick={this.handleOpenClick}>
               <span className="icon icon--search icon-link__icon"></span>Search
             </a>
@@ -94,9 +97,6 @@ class Header extends React.Component {
                 ref={(s) => { this.search = s; }}
               />
             </div>
-          </div>
-          <div className="nav__item">
-            <a href="https://chat.haufe.com/channel/technology_radar" target="_blank">Feedback</a>
           </div>
         </div>
       </Branding>
