@@ -72,7 +72,7 @@ class Header extends React.Component {
           </div>
           <div className="nav__item">
             <Link pageName="help-and-about-tech-radar" className="icon-link">
-              <span className="icon icon--question icon-link__icon"></span>About the Haufe Technology Radar?
+              <span className="icon icon--question icon-link__icon"></span>About the Haufe Technology Radar
             </Link>
           </div>
           <div className="nav__item">
@@ -94,6 +94,9 @@ class Header extends React.Component {
                 ref={(s) => { this.search = s; }}
               />
             </div>
+          </div>
+          <div className="nav__item">
+            <a href="https://chat.haufe.com/channel/technology_radar" target="_blank">Feedback</a>
           </div>
         </div>
       </Branding>
