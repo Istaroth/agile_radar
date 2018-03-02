@@ -5,6 +5,8 @@ quadrant:   platforms-and-partners
 
 ---
 
+![state](./../assets/images/item_state_under_construction.png)
+
 ## Why? ##
 
 The business needs of our customers are wide-spread. There is no chance to fulfill all of their needs with our own standard applications.

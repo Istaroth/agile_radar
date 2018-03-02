@@ -5,7 +5,7 @@ quadrant:   ui-and-devices
 
 ---
 
-Christian Kempter
+![state](./../assets/images/item_state_under_construction.png)
 
 ## Why? ##
 

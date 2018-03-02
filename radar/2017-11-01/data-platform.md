@@ -5,7 +5,7 @@ quadrant:   data-science-and-analytics
 
 ---
 
-Rainer Kempkes, Holger Reinhardt
+![state](./../assets/images/item_state_under_construction.png)
 
 ## Why? ##
 

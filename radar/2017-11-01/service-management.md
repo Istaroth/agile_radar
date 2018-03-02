@@ -5,7 +5,7 @@ quadrant:   infrastructure-and-operational-technology
 
 ---
 
-Larissa Wissmann? Andreas Plaul?
+![state](./../assets/images/item_state_under_construction.png)
 
 ## Why? ##
 

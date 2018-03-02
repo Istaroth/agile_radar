@@ -5,6 +5,8 @@ quadrant:   infrastructure-and-operational-technology
 
 ---
 
+![state](./../assets/images/item_state_under_construction.png)
+
 Jochen Vogel, Daniel Schalberger, Thomas Schüring?
 
 ## Why? ##

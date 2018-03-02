@@ -20,14 +20,6 @@ With the rise of mobile devices, a lot of different technical approaches and fra
 The range of mobile solution approaches includes web apps, hybrid apps, and (cross-platform) native apps.
 The article [Native, Web or Hybrid Apps?](https://www.mobiloud.com/blog/native-web-or-hybrid-apps/) gives an excellent overview about the different approaches and there is also a chapter on "how to choose the right approach for your situation".
 
-## Relevant for which units ##
-
-Relevant for all units.
-
-## Strategic category ##
-
-- Kategorie 2: Eine Schlüsseltechnologie ist für mehrere HGF relevant – Ausprägung sehr HGF spezifisch
-
 ## Technology choices/solutions ##
 
 A wide selection of mobile frameworks are available. The market is very vivid and it is hard to keep track of all the offers.
