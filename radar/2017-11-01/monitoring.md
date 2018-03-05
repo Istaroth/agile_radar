@@ -18,7 +18,7 @@ The only chance to keep an eye on success/failure is to observe the system(s) fo
 
 ### Monitoring ###
 
-... is observing the application/service, its runtime environment and infrastructure "from the outside" in (almost) realtime. 
+... is observing the application/service, its runtime environment and infrastructure "from the outside" in (almost) real time.
 
 Possible results are:
 
@@ -27,18 +27,18 @@ Possible results are:
 - storage/memory/CPU indicators
 - ...
 
-Monitoring data is being used to **control and manage** the application/service "in time". It helps to get "the right fit" of the infrastructure (scaling) or enables runtime management according to SLAs. 
+Monitoring data is being used to **control and manage** the application/service "in time". It helps to get "the right fit" of the infrastructure (scaling) or enables runtime management according to SLAs.
 
 
 ### Telemetry ###
 
-... is any kind of **usage** information about the application/service and its runtime environment. 
+... is any kind of **usage** information about the application/service and its runtime environment.
 
 Think about:
 
 - number of records in db
 - most often used function
-- time spent in dialog 
+- time spent in dialog
 - ...
 
 Telemetric data is somewhat similar to Monitoring data, but is meant to be used "somewhere else" and mostly for statistical purposes. It is especially required for improvement of software/services based on usage info.
