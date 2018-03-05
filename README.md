@@ -69,7 +69,7 @@ A new deployment is triggered whenever the branch **master** is changed.
 [To see instructions on how to contribute content, click here.](docs/contribute-to-tech-radar.md)
 
 ## List of responsibles ###
-Editors for technologies can be found in the [Technology List](./technologylist.md).
+Editors for technologies can be found in the [technology List](./technologylist.md).
 
 ## Todos
 
