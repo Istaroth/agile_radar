@@ -27,7 +27,7 @@ Possible business ideas for us might be
 - Identity system for our solutions
   Read [more](https://www.coindesk.com/sony-seeks-blockchain-patent-for-user-authentication-system/).
 
-The article [BLOCKCHAIN APPLICATION IDEAS THAT COULD HELP YOUR SMALL BUSINESS](https://due.com/blog/8-Blockchain-applications-help-small-business/) contains more interesting business ideas.
+The article [BLOCKCHAIN APPLICATION IDEAS THAT COULD HELP YOUR SMALL BUSINESS](https://due.com/blog/8-blockchain-applications-help-small-business/) contains more interesting business ideas.
 
 #### 19 Industries The Blockchain Will Disrupt ####
 
@@ -41,7 +41,7 @@ A Blockchain is a digitized, decentralized, public ledger of all digital (often 
 > “The Blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just
 > financial transactions but virtually everything of value.”
 Don & Alex Tapscott, authors Blockchain Revolution (2016)
-Read more [here](https://blockgeeks.com/guides/what-is-Blockchain-technology/).
+Read more [here](https://blockgeeks.com/guides/what-is-blockchain-technology/).
 
 To get a better understanding what problem Blockchain technology tries to solve, read [this article](https://www.coindesk.com/bitcoin-explained-five-year-old/). It explains Blockchain with very cool analogies for a five year old child. 100% buzzword free!
 
