@@ -40,7 +40,7 @@ There are several ways to edit Git Markdown documents. People, who work with Git
 Using Git from the Git Bash is not described here. If you want to use bash commands to manage your content with Git, we assume you know how to do it already.
 
 ### Working with content
-Before you start writing, please read up on how to work with Tech Radar content. There 
+Before you start writing, especially if you work in Git, please read up on how to work with Tech Radar content. There are aspects like file location and metadata that you need to know about.
 
 [To read content requirements, click here](./working-on-content.md)
 
