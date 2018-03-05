@@ -42,15 +42,15 @@ The following front-matter attributes are possible:
 
 ### Quadrant values and their meaning ####
 - `data-science-and-analytics` means Data Science & Analytics
-All data related technologies and trends like BigData, Business Intelligence, Artifical Intelligence (AI,KI) and Machine Learning are placed here.
+All data related technologies and trends like BigData, Business Intelligence, Artificial Intelligence (AI,KI) and Machine Learning are placed here.
 
 - `infrastructure-and-operational-technology` means Infrastructure & Operational Technology
-Technologies including Cloud over DevOps, Containerization, Continous Integration/Delivery/Deployment, Build Pipelines, Monitoring, Logging
+Technologies including Cloud over DevOps, Containerization, Continuous Integration/Delivery/Deployment, Build Pipelines, Monitoring, Logging
 
 - `platforms-and-partners` means Platforms & Partners
 Technologies useful for product/system collaboration and composable new product forms like APIs, API Management, Partner Platform, Collaboration, Integration
 - `ui-and-devices` means UI & Devices
-New forms of user interfaces like voice (Amazon Alexa), Chatbots, Virtual/Artifical/Mixed reality devices, Mobile devices and also other IoT devices including Smart Home
+New forms of user interfaces like voice (Amazon Alexa), Chatbots, Virtual/Artificial/Mixed reality devices, Mobile devices and also other IoT devices including Smart Home
 
 ### Ring section values and their meaning ####
 
