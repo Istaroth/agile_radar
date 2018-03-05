@@ -1,4 +1,4 @@
-# Working on the Content
+# Working on the content
 This section is for team members and contributors, who work in Git to add to the technology radar.
 
 ## Maintaining items
@@ -7,12 +7,14 @@ The content of the tech radar is located in the folder  `/radar`. To organize pr
 
 For each technology there must be one markdown file (*.md).
 
-All content is written or converted to Markdown format (.md).
+All content is written or converted to markdown format (.md).
 
 ## Template
 
 It is strongly recommended to use the **_template.md** file as a template for new items.
 It also contains the structure that should be used for all items with helpful explanations about the audience and view point to write the content.
+
+If you are unable to work with Git - we can provide you with Microsoft Word templates.
 
 ## Radar structure
 
@@ -30,7 +32,7 @@ Each file has [front-matter](https://github.com/jxson/front-matter) header where
 
 ```
 
-Following front-matter attributes are possible:
+The following front-matter attributes are possible:
 
 - **title**: Name of the Item
 - **quadrant**: Quadrant. One of `data-science-and-analytics`, `infrastructure-and-operational-technology`, `platforms-and-partners`, `ui-and-devices`
@@ -43,7 +45,7 @@ Following front-matter attributes are possible:
 All data related technologies and trends like BigData, Business Intelligence, Artifical Intelligence (AI,KI) and Machine Learning are placed here.
 
 - `infrastructure-and-operational-technology` means Infrastructure & Operational Technology
-Technologies reaching from Cloud over DevOps, Containerization, Continous Integration/Delivery/Deployment, Build Pipelines, Monitoring, Logging
+Technologies including Cloud over DevOps, Containerization, Continous Integration/Delivery/Deployment, Build Pipelines, Monitoring, Logging
 
 - `platforms-and-partners` means Platforms & Partners
 Technologies useful for product/system collaboration and composable new product forms like APIs, API Management, Partner Platform, Collaboration, Integration
@@ -54,7 +56,7 @@ New forms of user interfaces like voice (Amazon Alexa), Chatbots, Virtual/Artifi
 
 Each of the items is classified in one of these rings:
 - `discover`
- We discover the value of a technology and proof the value for us and our customers. That is typically the stage were we work on PoCs and unrisky tests in apps.
+ We discover the value of a technology and prove the value for us and our customers. This is typically the stage were we work on PoCs and low-risk tests in apps.
 - `productize`
 We use it in one or a small amount of products and gather experinece with our customers.
 - `scale`
@@ -68,4 +70,4 @@ If an item also exists in a newer release, the attributes from the new item are 
 The content of the md-files is also merged. The content of the newest file is displayed first in the radar followed by the older content.
 
 ## Technology responsibles
-To find out who is responsible for editing each technology in the radar,just take a look in the file [Technology List](./technologylist.md).
+To find out who is already responsible for editing each technology in the radar,just take a look in the file [Technology List](../technologylist.md).
