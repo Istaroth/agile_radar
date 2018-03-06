@@ -39,6 +39,11 @@ There are several ways to edit Git Markdown documents. People, who work with Git
 
 Using Git from the Git Bash is not described here. If you want to use bash commands to manage your content with Git, we assume you know how to do it already.
 
+### Working with content
+Before you start writing, especially if you work in Git, please read up on how to work with Tech Radar content. There are aspects like file location and metadata that you need to know about.
+
+[To read content requirements, click here](./working-on-content.md)
+
 ### Microsoft Word templates
 
 For those of you, who don't want to work with Git at all, just request the English or German Microsoft Word templates and contribute your tech radar content in Microsoft Word format. Someone will enter the content in Git for you when editing is finished.

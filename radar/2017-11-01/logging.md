@@ -34,11 +34,13 @@ Logging data is required to give proof of **correct execution** (and thereby can
 - [Log forwarding - fluentd/fluentbit](https://www.fluentd.org/)
 
 ## Our projects ##
+
 List of projects and activities
 
 - [Logging - Best-Practices](https://github.com/Haufe-Lexware/Logging---Best-Practices/blob/master/README.md)
 - [Central logmanagement]()
 
 ## Contact ##
+
 Thomas Schüring <thomas.schuering@haufe-lexware.com>
 

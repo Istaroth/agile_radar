@@ -72,13 +72,16 @@ class Header extends React.Component {
           </div>
           <div className="nav__item">
             <Link pageName="help-and-about-tech-radar" className="icon-link">
-              <span className="icon icon--question icon-link__icon"></span>About the Haufe Technology Radar?
+              <span className="icon icon--question icon-link__icon"></span>About the Haufe Technology Radar
             </Link>
           </div>
           <div className="nav__item">
             <Link pageName="overview" className="icon-link">
               <span className="icon icon--overview icon-link__icon"></span>Technologies Overview
             </Link>
+          </div>
+          <div className="nav__item">
+            <a className="icon-link" href="https://chat.haufe.com/channel/technology_radar" target="_blank">Feedback</a>
           </div>
           <div className="nav__item">
             <a className="icon-link" href="#" onClick={this.handleOpenClick}>

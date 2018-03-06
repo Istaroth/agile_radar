@@ -5,8 +5,6 @@ quadrant:   data-science-and-analytics
 
 ---
 
-
-
 ## Definitions ##
 
 Big data analytics is the process of examining large and varied data sets to discover hidden patterns, unknown correlations, market trends, customer preferences and other useful information that can help organizations make more-informed business decisions.
@@ -23,8 +21,6 @@ The concept of big data has been around for years; most organizations now unders
 
 The new benefits that big data analytics brings to the table, however, are speed and efficiency. Whereas a few years ago a business would have gathered information, run analytics and discover information that could be used for future decisions, today that business can identify insights for immediate decisions. The ability to work faster – and stay agile – gives organizations a competitive edge they didn’t have before.  
 
-
-
 ## Technology choices/solutions ##
 
 - Classical Hadoop ecosystem distributions e.g. Cloudera, Hortonworks, MapR etc.
@@ -38,7 +34,6 @@ The new benefits that big data analytics brings to the table, however, are speed
 - Microsoft Power BI is used in various departments of our company.
 - PoCs related to Big Data Analytics are in progress across the company.
  
-
 ## Contact ##
 - Customer Analytics/Big Data Lab: <Jutta.Hobbelhagen@haufe-lexware.com>
 - Big Data Architecture (in CTO): <Jerzy.Kott@haufe-lexware.com>

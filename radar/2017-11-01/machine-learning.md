@@ -15,18 +15,18 @@ quadrant:   data-science-and-analytics
 
 ## Content ##
 
-[Definition](#definition)   
-[Areas of application, user benefit and correlated HG initiatives](#areas-of-application-user-benefit-and-correlated-hg-initiatives)   
-[1. product view](#1-product-view)   
-[2. marketing view](#2-marketing-view)   
-[3. others](#3-others)   
-[Impulses](#impulses)   
+[Definition](#definition)
+[Areas of application, user benefit and correlated HG initiatives](#areas-of-application-user-benefit-and-correlated-hg-initiatives)
+[1. product view](#1-product-view)
+[2. marketing view](#2-marketing-view)
+[3. others](#3-others)
+[Impulses](#impulses)
 [Contact](#contact)
 
 
 ## Definition ##
 
-**Machine Learning** (ML) is one of the main drivers of the digital transformation. It not only enables deeper insights about the users of our products or the visitors of our shops and portals but also predicts their future behaviour and is able to take decisions on that.
+**Machine Learning** (ML) is one of the main drivers of the digital transformation. It not only enables deeper insights about the users of our products or the visitors of our shops and portals but also predicts their future behavior and is able to take decisions on that.
 
 ML is part of Artificial Intelligence (AI) which tries to mimic human intelligence by machines. It is also called the "weak" or "narrow" part of AI because it tries to solve one or a few specific problems at a time, f.e. recognizing faces on pictures or extracting the meaning from speech or text.
 
@@ -34,17 +34,17 @@ In ML you do no longer program rules but instead train the system to learn patte
 
 The term **"Deep Learning"** is a part of ML and is used for newer neural networks. These deep neural networks do not only have one but multiple hidden layers between the input and the output layer; each layer providing his learnings to the next one. Thus, Deep Learning is used for training complex pattern matching problems like face or language recognition. For training deep neural networks the amount of input data and efforts for preprocessing is much higher than "normal" ML.
 
-A good commonly understandable introduction into ML you can find in the slidedeck from Jason Mayes: 
+A good commonly understandable introduction into ML you can find in the slide deck from Jason Mayes:
 
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g18ade992fa_6_757
 
 ## Areas of application, user benefit and correlated HG initiatives ##
 
-The purpose of ML is to automatically learn patterns, apply them on new data, predict the desired information and optionally take decisions or actions from that. Raw data input may originate from text, pictures, videos, speech, behavioral or master data; data may be delivered in discrete files or as data streams, i.e. from sensors.  
+The purpose of ML is to automatically learn patterns, apply them on new data, predict the desired information and optionally take decisions or actions from that. Raw data input may originate from text, pictures, videos, speech, behavioral or master data; data may be delivered in discrete files or as data streams, i.e. from sensors.
 
-Two main areas are predestined for ML usage at Haufe Group: 
+Two main areas are predestined for ML usage at Haufe Group:
 
-1) **Product view**: How can ML support in creating data-driven or self-optimizing products? 
+1) **Product view**: How can ML support in creating data-driven or self-optimizing products?
 
 2) **Marketing view**: How can ML support Marketing teams to better understand the user/visitor and his context and provide the next best action to him?
 
@@ -59,7 +59,7 @@ Mostly all current initiatives are in the state "Discovery" - proofing the value
 | semantics                            | search  algorithm, extract semantic context and return most relevant results | UX:  Get quick and relevant answers/solutions to my question/problem | [christoph.ludwig@haufe-lexware.com](mailto:christoph.ludwig@haufe-lexware.com) |
 |                                      | word  embedding                          | UX:  get relevant help comments for creating contracts | word  embedding in tenancy law    hans.lecker@haufe-lexware.com |
 |                                      | entity  recognition, natural language processing (NLP) | convenient  document/bill capture and assignment | lexoffice    christian.steiger@haufe-lexware.com |
-|                                      | speech  recognition, device control via language (Siri, Google now, Cortana, Amazon  Echo) | Users  want to interact with devices in a fast, natural and efficient way. Next  evolutionalry step: natural spoken language | ?                                        |
+|                                      | speech  recognition, device control via language (Siri, Google now, Cortana, Amazon  Echo) | Users  want to interact with devices in a fast, natural and efficient way. Next  evolutionary step: natural spoken language | ?                                        |
 | product usage                        | finding  patterns in product usage to prioritize or filter content for the user | UX:  improved user experience            | ?                                        |
 | personal digital assistants          | Train  personal digital assistants to    |                                          | Alexa  skill for reading Haufe Newsfeed - HCP     christian.kempkter@haufe-lexware.com |
 | chatbots                             |                                          |                                          | AKA                                      |
@@ -70,9 +70,9 @@ Mostly all current initiatives are in the state "Discovery" - proofing the value
 
 | Topic                                    | Area of  application                     | Customer Need/Use Case / User experience | Haufe  initiative                        |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Clustering / classification / regression (Datamining) | identify  segments of users with the same behaviour, predict their probability and take  actions on that    i.e. churn prediction | get  more relevant informations or offers dependent from the customer's  context | "Next  Best Action" - SME    corinna.haessig@haufe-lexware.com |
-| Decisioning                              | optimized  A/B-Testing with contextual multiarmed bandits | display  most relevant content/offer dependent from the customer's context | "Next  Best Action" - SME    corinna.haessig@haufe-lexware.com |
-| Fraud  detection                         | prevent  fraud by identifying potential visitors using ML | intern:  avoid additonal costs           | Lexware  Shop    corinna.haessig@haufe-lexware.com |
+| Clustering / classification / regression (Datamining) | identify  segments of users with the same behavior, predict their probability and take  actions on that    i.e. churn prediction | get  more relevant information or offers dependent from the customer's  context | "Next  Best Action" - SME    corinna.haessig@haufe-lexware.com |
+| Decisioning                              | optimized  A/B-Testing with contextual multi-armed bandits | display  most relevant content/offer dependent from the customer's context | "Next  Best Action" - SME    corinna.haessig@haufe-lexware.com |
+| Fraud  detection                         | prevent  fraud by identifying potential visitors using ML | intern:  avoid additional costs           | Lexware  Shop    corinna.haessig@haufe-lexware.com |
 
 ### 3. Others ###
 
@@ -91,7 +91,7 @@ Mostly all current initiatives are in the state "Discovery" - proofing the value
 
 ## Impulses ##
 
-The following topics are intended to make you curious and to provide you with new possible ideas to continue investing on your own.  
+The following topics are intended to make you curious and to provide you with new possible ideas to continue investing on your own.
 
 ### Data ###
 
@@ -108,16 +108,16 @@ The following topics are intended to make you curious and to provide you with ne
 ### Service ###
 
 - Automating standard processes and make them self-optimizing, self-learning
-- Agent support: realtime sentiment analysis of inbound/outbound calls
+- Agent support: real time sentiment analysis of inbound/outbound calls
 
 ### Marketing ###
 
 - Channel Online: Trying to classify the visitor type by analyzing his mouse movements while visiting one of our shops/portals
-- Channel Outbound telephone marketing: daily self-optimizing segment output for telephone calls based on order behaviour of past calls.
+- Channel Outbound telephone marketing: daily self-optimizing segment output for telephone calls based on order behavior of past calls.
 
 ## Contact ##
 
-If you need help or consultancy, want to contribute ideas, need ML support for your own idea or cell kick-off, want to discuss topics or get development support in ML issues, feel free to contact the people mentioned in the HG initiatives above or contact 
+If you need help or consultancy, want to contribute ideas, need ML support for your own idea or cell kick-off, want to discuss topics or get development support in ML issues, feel free to contact the people mentioned in the HG initiatives above or contact
 
 - ML, Big Data Lab, Data Science, Datamining, Customer Analytics: jutta.hobbelhagen@haufe-lexware.com
 - ML, Realtime APIs in a Docker context, Decision Services: rainer.kempkes@haufe-lexware.com

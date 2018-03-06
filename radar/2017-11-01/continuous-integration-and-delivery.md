@@ -13,24 +13,24 @@ Integration tests are time consuming and brittle. Deployment was done by special
 
 Continuous Integration(CI) and Continuous Deployment(CD) targets to improve that situation dramatically.
 
-**Continuous Integration** is the practice of testing each change done to your codebase automatically and as early as possible.
+**Continuous Integration** is the practice of testing each change done to your code base automatically and as early as possible.
 
 **Continuous Deployment** follows the testing that happens during Continuous Integration and pushes changes to a staging or production system. This makes sure a version of your code is accessible at all times.
 
-- Fast feature releases   
+- Fast feature releases
   Customers get new features in days and not months.
-- Reduce integration problems   
+- Reduce integration problems
   Integrate new changes immediately and automatically check whether they work
-- Catch issues early  
+- Catch issues early
   Issues are fixed immediately
-- Highly automated processes that run stable   
+- Highly automated processes that run stable
   No head knowledge anymore. Reliable, automated processes.
-- Reduce risk   
+- Reduce risk
   Small steps instead of BigBang reduces significantly the risk of deployment.
-- More features   
+- More features
   Reliable processes gives you more time to develop new features.
 
-Automation is a cornerstone of a great development workflow. Every task that can be done by a machine should be. Automation gives you the time to focus on new features. 
+Automation is a cornerstone of a great development workflow. Every task that can be done by a machine should be. Automation gives you the time to focus on new features.
 But the implementation of automated test, integrations and deployments does not come for free.
 
 ## Technology choices/solutions ##
@@ -48,10 +48,10 @@ This is only a subset of our toolset.
 
 This is also only a small representation of teams that have automated processes.
 
-- Foundational services  
+- Foundational services
   Highly automated processes from unit testing oder integration testing and deployment to Azure. The team put a lot of effort in and improved the stability of feature releases significant.
 - iDesk
-- Lexware desktop apps  
+- Lexware desktop apps
   Automated build processes, including setup creation, setup installation and basic tests.
 
 ## Contact ##
