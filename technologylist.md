@@ -4,7 +4,7 @@ The intention of this list is to assign clear tasks to authors and reviewers.
 Please update the list whenever you changed something and finished a task.
 
 Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
--------------------------------------------|--------------------|---------|------------|--------------------------------------
+-------------------------------------------|--------------------|---------|------------|----------|----------------------------
 api-design.md                              | RainerZ            | yes     | Scott      | no       | ok
 api-discovery.md                           | RainerZ            | yes     | ThomasSc   | no       | review needed
 api-management.md                          | RainerZ            | yes     | MartinD    | no       | ok
