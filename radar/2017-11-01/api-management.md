@@ -13,7 +13,7 @@ It enables you to create, secure, manage, scale and analyze APIs.
 
 An API Management is a "Must Have" for partner business like it is a goal in different units and already on its way.
 
-## API Managment solutions ##
+## API Management solutions ##
 
 ### Wicked ###
 
