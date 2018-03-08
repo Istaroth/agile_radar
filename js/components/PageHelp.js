@@ -46,8 +46,8 @@ export default function PageHelp({ leaving, onLeave, ...props }) {
           <li><strong>Productize:</strong> We use it in one or a small amount of products and gather experinece with our customers. </li>
           <li><strong>Scale:</strong> We use it in many products and teams and it has proven to be stable and useful. </li>
         </ul>
-      <p>To see instructions on how to contribute content, click .<a href="https://github.com/Haufe-Lexware/aoe_technology_radar" target="_blank">here</a></p>
-      <p>Contributions and source code of the radar are on github: <a href="https://github.com/Haufe-Lexware/aoe_technology_radar/blob/master/docs/contribute-to-tech-radar.md" target="_blank">Haufe Tech Radar on Github</a></p>
+      <p>To see instructions on how to contribute content, click .<a href="https://github.com/Haufe-Lexware/aoe_technology_radar/blob/master/docs/contribute-to-tech-radar.md" target="_blank">here</a></p>
+      <p>Contributions and source code of the radar are on github: <a href="https://github.com/Haufe-Lexware/aoe_technology_radar" target="_blank">Haufe Tech Radar on Github</a></p>
       <p>The solution is forked from the AOE Tech Radar <a href="" target="_blank">AOE Tech Radar on Github</a>. We like to thank that guys for their great work!</p>
       </div>
     </Fadeable>
