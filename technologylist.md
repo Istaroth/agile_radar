@@ -14,8 +14,8 @@ business-process-automation.md             | RainerZ            | no      | Thom
 chatbot.md                                 | ChristianK         | yes     | RainerZ    | yes      | ok
 collaboration.md                           | RainerZ            | yes     | ThomasSc   | no       | ok
 continuous-integration-and-delivery.md     | RainerZ            | yes     | MarkusW    | no       | ok
-data-analytics.md                          | JerseyK            | no      | RainerK    | no       | under construction
-data-platform.md                           | JerseyK            | no      | RainerK    | no       | under construction
+data-analytics.md                          | JerseyK            | yes     | RainerK    | no       | ok
+data-platform.md                           | JerseyK            | yes     | RainerK    | no       | ok
 docker.md                                  | ThomasSc           | yes     | RainerZ    | no       | ok
 it-security.md                             | JochenV            | no      |            | no       | hide?
 lms.md                                     | RainerZ            | no      |            | no       | hide
