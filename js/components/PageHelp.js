@@ -54,9 +54,20 @@ export default function PageHelp({ leaving, onLeave, ...props }) {
         <h3 >Who we are...</h3>
         <p>
         We are a team of technology interested people working in different business units at the Haufe Group. We are working in departments with deep technology relations and also on the other side in departments with close contact to different kind of small, medium or big customers.<br/>
-In the past we saw that many colleagues (we call them often “innovators”) came with the same questions concerning new ideas. To help them we started to develop the TechRadar to have a centralized overview for all business departments. Now all innovators can review very quick if for example a technology is already in use at the Haufe Group or if we even are using already products with the technology. In every section everyone is able to see immediately who is working with the technology (contact person) and which projects were already started or even finished with this technology.<br/>
-With this knowledge we would like to bring people with deep technology knowledge together with people who are working very close on the customer or sales side. Using both knowledges, what the customer needs are and how we could develop now products, we are able to fasten processes and to improve the customer products on their specific need. 
-        </p>  
+        In the past we saw that many colleagues (we call them often “innovators”) came with the same questions concerning new ideas. To help them we started to develop the TechRadar to have a centralized overview for all business departments. Now all innovators can review very quick if for example a technology is already in use at the Haufe Group or if we even are using already products with the technology. In every section everyone is able to see immediately who is working with the technology (contact person) and which projects were already started or even finished with this technology.<br/>
+        With this knowledge we would like to bring people with deep technology knowledge together with people who are working very close on the customer or sales side. Using both knowledges, what the customer needs are and how we could develop now products, we are able to fasten processes and to improve the customer products on their specific need. <br/><br/>
+        Contact us via mail _kickstarter_customer_success_new_tech <_kickstarter_customer_success_new_tech@haufe-lexware.com> 
+      </p>  
+      <p>Group members:</p>
+      <ul>
+        <li><a href="mailto:Rainer.Kempkes@haufe-lexware.com">Rainer Kempkes</a></li>
+        <li><a href="mailto:Christian.Kempter@haufe-lexware.com">Christian Kempter</a></li>
+        <li><a href="mailto:Christian.Ledinger@haufe-lexware.com">Christian Ledinger</a></li>
+        <li><a href="mailto:Bernd.Sengpiehl@haufe-lexware.com">Bernd Sengpiehl</a></li>
+        <li><a href="mailto:Scott.Speights@haufe-lexware.com">Scott Speights</a></li>
+        <li><a href="mailto:Drazen.Stuparic@haufe-lexware.com">Drazen Stuparic</a></li>
+        <li><a href="mailto:Rainer.Zehnle@haufe-lexware.com">Rainer Zehnle</a></li>
+      </ul>
       </div>
     </Fadeable>
   );
