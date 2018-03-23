@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=BOUTfUmI8vs
 
 Besides this funny aspects, Voice Interfaces confront especially HG with real challenges. Branding for example. If screens doesn‘t exist anymore, what defines the brand than? What kind of „personality“ we want to be? Or the products. How a service, tool, app should look & feel like with voice? Online shops? If voice kills the buy button, how we gonna sell than? Or Lead Generation? What happens to Search, Online Media or E-Mail? 
 
-Pschology, Data, Economics, Content, Creativity … here disciplines really mix up for a great experience.
+Psychology, Data, Economics, Content, Creativity … here disciplines really mix up for a great experience.
 
 Well, good news. People will search forever, and keep on buying stuff online. But the game changes, and it changes quickly. How we will take action?
 
