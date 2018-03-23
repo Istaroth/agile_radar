@@ -55,8 +55,8 @@ So it’s time, to get it on!
 
 ## Technology choices/solutions ##
 
-Alexa Skills
-Google Actions
+- Alexa Skills
+- Google Actions
 
 ## Our projects ##
 
