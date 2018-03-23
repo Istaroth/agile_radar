@@ -60,8 +60,8 @@ So it’s time, to get it on!
 
 ## Our projects ##
 
-VoiceFirst – Voice Stream: Alexa haufe.de news skill live, PoC Google Assistant, Bewerbungstrainer in production
-SmartSteuer 
+- VoiceFirst – Voice Stream: Alexa haufe.de news skill live, PoC Google Assistant, Bewerbungstrainer in production
+- SmartSteuer 
 
 ## Contact ##
 
