@@ -6,6 +6,7 @@ quadrant:   ui-and-devices
 ---
 
 State March 2018
+
 Different approaches for Voice Interfaces are under developement. SmartSteuer and Haufe offers already Live Skills in the Skill Store from Amazon.
 
 ## Why? ##
