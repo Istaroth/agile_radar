@@ -1,6 +1,6 @@
 ---
 title:      "Machine Learning"
-ring:       discover
+ring:       productize
 quadrant:   data-science-and-analytics
 ---
 
