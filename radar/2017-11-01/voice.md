@@ -19,9 +19,11 @@ And the story goes on: If you look at last years CES or IFA, for example, integr
 
 And all this is shaping the future and expecations of our customers.
 
-“50% of all searches will be voice searches by 2020” according to comscore https://www.campaignlive.co.uk/article/just-say-it-future-search-voice-personal-digital-assistants/1392459 
-“About 30% of searches will be done without a screen by 2020.” via Mediapos https://www.mediapost.com/publications/article/291913/gartner-predicts-30-of-searches-without-a-screen.html
-“We estimate there will be 21.4 million smart speakers in the US by 2020” according to Activate https://www.slideshare.net/ActivateInc/think-again-tech-media-outlook-2017-67604099
+- “50% of all searches will be voice searches by 2020” according to comscore https://www.campaignlive.co.uk/article/just-say-it-future-search-voice-personal-digital-assistants/1392459 
+
+- “About 30% of searches will be done without a screen by 2020.” via Mediapos https://www.mediapost.com/publications/article/291913/gartner-predicts-30-of-searches-without-a-screen.html
+
+- “We estimate there will be 21.4 million smart speakers in the US by 2020” according to Activate https://www.slideshare.net/ActivateInc/think-again-tech-media-outlook-2017-67604099
 
 
 The battle of the platforms just began. While especially Amazon https://developer.amazon.com/de/alexa-skills-kit  and Google https://developers.google.com/actions/ offers broad support to build Skills (Amazon) or Actions (Google), the other companys are scarce in public information. As Amazon surely dominates the  Hardware, Google has with Android the major mobile OS with voice access. Meanwhile IBM and Salesforce build an alternative superpower in terms of business solutions.
