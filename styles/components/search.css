@@ -10,7 +10,7 @@
     height: 100%;
     width: 100%;
     padding: 10px 120px 10px 20px;
-    background: #3A444A;
+    background: var(--color-search);
     display: block;
     border: none;
     color: var(--color-white);
@@ -25,7 +25,7 @@
 
     &:focus {
       outline: none;
-      background: #2F393F;
+      background: var(--color-gray-dark-alt2);
     }
   }
 

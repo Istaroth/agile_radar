@@ -7,11 +7,11 @@
   margin: 0;
 
   &__alt {
-    color: var(--color-gray-light);
+    color: var(--color-gray-normal);
   }
 
   &--inverse {
-    color: var(--color-gray-light);
+    color: var(--color-gray-blogtext);
   }
 
   @media (--until-sm) {
