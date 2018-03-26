@@ -6,6 +6,6 @@
   font-weight: normal;
 
   &--dark {
-    color: var(--color-gray-light);
+    color: var(--color-gray-normal);
   }
 }

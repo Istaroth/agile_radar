@@ -1,10 +1,13 @@
 :root {
-  --color-gray-dark: #475157;
-  --color-gray-dark-alt: #4F585E;
-  --color-gray-dark-alt2: #434D53;
-  --color-gray-normal: #7f858a;
-  --color-gray-light: #7D878D;
-
+  --color-blue-dark: #003F71;
+  --color-gray-dark: #232A36;
+  --color-gray-dark-alt: #003F71;
+  --color-gray-dark-alt2: #1A4067;
+  --color-gray-normal: #8F9299;
+  --color-gray-light: #E7E7E8;
+  --color-gray-blogtext: #636871;
+  --color-search: #1A4067;
+  
   --color-white: #fff;
   --color-green: #5CB449;
   --color-orange: #FAA03D;
@@ -21,18 +24,18 @@
 
 @font-face {
   font-family: 'DIN';
-  src: url('../fonts/clanot-news.otf');
+  src: url('../fonts/haufe-merriweather-sans.otf');
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'DIN';
-  src: url('../fonts/clanot-thin.otf');
+  src: url('../fonts/haufe-merriweather-sans-lt.otf');
   font-weight: 300;
 }
 
 body {
-  background: var(--color-gray-dark);
+  background: var(--color-blue-dark);
   box-sizing: border-box;
   margin: 0;
   padding: 0;

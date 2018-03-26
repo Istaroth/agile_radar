@@ -1,5 +1,5 @@
 .markdown {
-  color: var(--color-gray-normal);
+  color: var(--color-gray-blogtext);
   font-size: 16px;
 
   p {
@@ -7,7 +7,7 @@
   }
 
   a {
-    color: var(--color-gray-normal);
+    color: var(--color-gray-blogtext);
     text-decoration: underline;
     &:hover {
       color: var(--color-gray-dark);
@@ -20,7 +20,7 @@
   h4,
   h5,
   h6 {
-    color: var(--color-gray-normal);
+    color: var(--color-gray-blogtext);
   }
 
   h1 {

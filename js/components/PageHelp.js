@@ -46,8 +46,28 @@ export default function PageHelp({ leaving, onLeave, ...props }) {
           <li><strong>Productize:</strong> We use it in one or a small amount of products and gather experinece with our customers. </li>
           <li><strong>Scale:</strong> We use it in many products and teams and it has proven to be stable and useful. </li>
         </ul>
-      <p>Contributions and source code of the radar are on github: <a href="https://github.com/Haufe-Lexware/aoe_technology_radar" target="_blank">Haufe Tech Radar on Github</a></p>
-      <p>The solution is forked from the AOE Tech Radar <a href="" target="_blank">AOE Tech Radar on Github</a>. We like to thank that guys for their great work!</p>
+        <h3 >Contribution</h3>
+        <p>To see instructions on how to contribute content, click .<a href="https://github.com/Haufe-Lexware/aoe_technology_radar/blob/master/docs/contribute-to-tech-radar.md" target="_blank">here</a></p>
+        <p>Contributions and source code of the radar are on github: <a href="https://github.com/Haufe-Lexware/aoe_technology_radar" target="_blank">Haufe Tech Radar on Github</a></p>
+        <h3 >Credits</h3>
+        <p>The solution is forked from the AOE Tech Radar <a href="https://github.com/AOEpeople/aoe_technology_radar" target="_blank">AOE Tech Radar on Github</a>. We like to thank that guys for their great work!</p>
+        <h3 >Who we are...</h3>
+        <p>
+        We are a team of technology interested people working in different business units at the Haufe Group. We are working in departments with deep technology relations and also on the other side in departments with close contact to different kind of small, medium or big customers.<br/>
+        In the past we saw that many colleagues (we call them often “innovators”) came with the same questions concerning new ideas. To help them we started to develop the TechRadar to have a centralized overview for all business departments. Now all innovators can review very quick if for example a technology is already in use at the Haufe Group or if we even are using already products with the technology. In every section everyone is able to see immediately who is working with the technology (contact person) and which projects were already started or even finished with this technology.<br/>
+        With this knowledge we would like to bring people with deep technology knowledge together with people who are working very close on the customer or sales side. Using both knowledges, what the customer needs are and how we could develop now products, we are able to fasten processes and to improve the customer products on their specific need. <br/><br/>
+        Contact us via mail _kickstarter_customer_success_new_tech <a href="mailto:_kickstarter_customer_success_new_tech@haufe-lexware.com">_kickstarter_customer_success_new_tech</a> 
+        </p>  
+      <p>Group members:</p>
+      <ul>
+        <li><a href="mailto:Rainer.Kempkes@haufe-lexware.com">Rainer Kempkes</a></li>
+        <li><a href="mailto:Christian.Kempter@haufe-lexware.com">Christian Kempter</a></li>
+        <li><a href="mailto:Christian.Ledinger@haufe-lexware.com">Christian Ledinger</a></li>
+        <li><a href="mailto:Bernd.Sengpiehl@haufe-lexware.com">Bernd Sengpiehl</a></li>
+        <li><a href="mailto:Scott.Speights@haufe-lexware.com">Scott Speights</a></li>
+        <li><a href="mailto:Drazen.Stuparic@haufe-lexware.com">Drazen Stuparic</a></li>
+        <li><a href="mailto:Rainer.Zehnle@haufe-lexware.com">Rainer Zehnle</a></li>
+      </ul>
       </div>
     </Fadeable>
   );

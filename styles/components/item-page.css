@@ -21,7 +21,7 @@
   }
 
   &__nav {
-    background: var(--color-gray-dark);
+    background: var(--color-blue-dark);
     flex: 0 0 calc((100vw - 1200px) / 2 + 400px);
     &__inner {
       box-sizing: border-box;
