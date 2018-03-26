@@ -17,7 +17,7 @@ continuous-integration-and-delivery.md     | RainerZ            | yes     | Mark
 data-analytics.md                          | JerseyK            | yes     | RainerK    | no       | ok
 data-platform.md                           | JerseyK            | yes     | RainerK    | no       | ok
 docker.md                                  | ThomasSc           | yes     | RainerZ    | no       | ok
-it-security.md                             | JochenV            | no      |            | no       | hide?
+it-security.md                             | JochenV            | no      |            | no       | hide
 lms.md                                     | RainerZ            | no      |            | no       | hide
 logging.md                                 | ThomasSc           | yes     | RainerZ    | no       | ok
 machine-learning.md                        | RainerK            | yes     |            | no       | ok
@@ -30,7 +30,7 @@ serverless.md                              | RainerZ            | yes     | Raul
 service-management.md                      | AndreasP           | no      | ScottS     | no       | ok
 smart-devices.md                           | RainerZ            | no      | ChristianK | no       | ok
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | RaulF      | no       | ok
-voice.md                                   | ChristianK         | no      | RainerZ    | no       | under construction
+voice.md                                   | ChristianK         | yes     | RainerZ    | no       | ok
 
 ## Timeline ##
 
