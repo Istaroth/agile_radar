@@ -2,6 +2,7 @@
 title:      "IT Security"
 ring:       scale
 quadrant:   infrastructure-and-operational-technology
+hidden:     true
 
 ---
 
