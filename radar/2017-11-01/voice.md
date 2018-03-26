@@ -42,7 +42,7 @@ Psychology, Data, Economics, Content, Creativity … here disciplines really mix
 Well, good news. People will search forever, and keep on buying stuff online. But the game changes, and it changes quickly. How we will take action?
 
 Highly recommended regarding voice:
-https://www.youtube.com/watch?v=T7xu7WbxWZQ 
+[![Watch the video](./../assets/images/video.png)](https://www.youtube.com/watch?v=T7xu7WbxWZQ)
 
 So it’s time, to get it on!
 
