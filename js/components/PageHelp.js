@@ -20,11 +20,11 @@ export default function PageHelp({ leaving, onLeave, ...props }) {
           The radar doesn't provide an overview of all technologies - but it focuses on key-technologies and innovations that have or might have business impact on our strategy.
           It's goal is to reflect our maturity state and experience with these technologies. It also an instrument to measure our progress over time.</p>
         <p>
-          Aim and mission is to help Haufe Group employees discovering all the new tech, that is used to realize customer-centric solutions and services. 
-          We want to foster the knowledge about technologies and relevant projects giving like-minded people the possibility to connect easily and share their passion for each topic. 
+          Aim and mission is to help Haufe Group employees discovering all the new tech, that is used to realize customer-centric solutions and services.
+          We want to foster the knowledge about technologies and relevant projects giving like-minded people the possibility to connect easily and share their passion for each topic.
           In this way we want to unlock synergies and knowledge transfer regrading ideas, success stories and pitfalls.
           As technologies show up quickly in the market, the Radar is updated constantly and therefore is always kind of work in progress.
-        </p>    
+        </p>
         <h3 >How it is created and maintained</h3>
         <p>The items in the technology radar are maintained by the innovation team.<br/>
         It's always a hard discussion about the classification and details of each technology and innovation. Please contribute to the discussion. It is the tech radar of our company and not from a single group.</p>
@@ -53,11 +53,11 @@ export default function PageHelp({ leaving, onLeave, ...props }) {
         <p>The solution is forked from the AOE Tech Radar <a href="https://github.com/AOEpeople/aoe_technology_radar" target="_blank">AOE Tech Radar on Github</a>. We like to thank that guys for their great work!</p>
         <h3 >Who we are...</h3>
         <p>
-        We are a team of technology interested people working in different business units at the Haufe Group. We are working in departments with deep technology relations and also on the other side in departments with close contact to different kind of small, medium or big customers.<br/>
-        In the past we saw that many colleagues (we call them often “innovators”) came with the same questions concerning new ideas. To help them we started to develop the TechRadar to have a centralized overview for all business departments. Now all innovators can review very quick if for example a technology is already in use at the Haufe Group or if we even are using already products with the technology. In every section everyone is able to see immediately who is working with the technology (contact person) and which projects were already started or even finished with this technology.<br/>
-        With this knowledge we would like to bring people with deep technology knowledge together with people who are working very close on the customer or sales side. Using both knowledges, what the customer needs are and how we could develop now products, we are able to fasten processes and to improve the customer products on their specific need. <br/><br/>
-        Contact us via mail _kickstarter_customer_success_new_tech <a href="mailto:_kickstarter_customer_success_new_tech@haufe-lexware.com">_kickstarter_customer_success_new_tech</a> 
-        </p>  
+        We are a team of technologists, who work for different business units, who have both strong ties to technology and close contact to small, medium, and large customers, and who firmly believe that marketing driven research of new technology enables innovation at Haufe Group.<br/>
+        Many colleagues (we call them “innovators”) have approached us with the same questions concerning developing new ideas for Haufe Group products. To help them, we have created the Technology Radar to provide colleagues in all business units a single point of reference to gain a quick overview for strategic Haufe Group technologies.<br/>
+        With this knowledge, we intend to network colleagues with deep business knowledge and deep technology know-how. By combining both types of knowledge - customer need and technical know-how - the network cell aims to spawn new networks to extend existing products and generate new products for the Haufe Group.<br/><br/>
+        Contact us via mail _kickstarter_customer_success_new_tech <a href="mailto:_kickstarter_customer_success_new_tech@haufe-lexware.com">_kickstarter_customer_success_new_tech</a>
+        </p>
       <p>Group members:</p>
       <ul>
         <li><a href="mailto:Rainer.Kempkes@haufe-lexware.com">Rainer Kempkes</a></li>
