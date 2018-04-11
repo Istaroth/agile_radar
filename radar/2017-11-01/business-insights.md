@@ -25,7 +25,7 @@ No research done.
 
 ## Our projects ##
 
-No activities till now.
+No activities until now.
 
 ## Contact ##
 
