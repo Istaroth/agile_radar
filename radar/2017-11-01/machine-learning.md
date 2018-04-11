@@ -26,27 +26,27 @@ quadrant:   data-science-and-analytics
 
 ## Definition ##
 
-**Machine Learning** (ML) is one of the main drivers of the digital transformation. It not only enables deeper insights about the users of our products or the visitors of our shops and portals but also predicts their future behavior and is able to take decisions on that.
+**Machine Learning** (ML) is one of the main drivers of digital transformation. It not only enables deeper insights about the users of our products or the visitors of our shops and portals but also predicts their future behavior and is able to take decisions on these predictions.
 
-ML is part of Artificial Intelligence (AI) which tries to mimic human intelligence by machines. It is also called the "weak" or "narrow" part of AI because it tries to solve one or a few specific problems at a time, f.e. recognizing faces on pictures or extracting the meaning from speech or text.
+ML is part of Artificial Intelligence (AI) which tries to mimic human intelligence with machines. It is also called the "weak" or "narrow" part of AI because it tries to solve one or a few specific problems at a time, f.e. recognizing faces on pictures or extracting the meaning from speech or text.
 
-In ML you do no longer program rules but instead train the system to learn patterns by feeding it with input data. ML creates algorithms that are able to make predictions on new data. You can combine this intelligence with sensors and take automated decisions for you like i.e. automatic control of temperature or light in your home.
+In ML you do no longer program rules but instead train the system to learn patterns by feeding it input data. ML creates algorithms that are able to make predictions on new data. You can combine this intelligence with sensors and take automated decisions if you like i.e. automatic control of temperature or light in your home.
 
-The term **"Deep Learning"** is a part of ML and is used for newer neural networks. These deep neural networks do not only have one but multiple hidden layers between the input and the output layer; each layer providing his learnings to the next one. Thus, Deep Learning is used for training complex pattern matching problems like face or language recognition. For training deep neural networks the amount of input data and efforts for preprocessing is much higher than "normal" ML.
+The term **"Deep Learning"** is a part of ML and is used for newer neural networks. These deep neural networks have multiple hidden layers between the input and the output layer; each layer providing learning output to the next one. Thus, Deep Learning is used for training complex pattern matching problems like face or language recognition. For training deep neural networks the amount of input data and efforts for preprocessing is much higher than "normal" ML.
 
-A good commonly understandable introduction into ML you can find in the slide deck from Jason Mayes:
+You can find a good commonly understandable introduction into ML in the slide deck from Jason Mayes:
 
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g18ade992fa_6_757
 
-## Areas of application, user benefit and correlated HG initiatives ##
+## Areas of application, user benefits and correlated HG initiatives ##
 
-The purpose of ML is to automatically learn patterns, apply them on new data, predict the desired information and optionally take decisions or actions from that. Raw data input may originate from text, pictures, videos, speech, behavioral or master data; data may be delivered in discrete files or as data streams, i.e. from sensors.
+The purpose of ML is to automatically learn patterns, apply them on new data, predict the desired information and optionally take decisions or actions from these predictions. Raw data input may originate from text, pictures, videos, speech, behavioral or master data; data may be delivered in discrete files or as data streams, i.e. from sensors.
 
 Two main areas are predestined for ML usage at Haufe Group:
 
 1) **Product view**: How can ML support in creating data-driven or self-optimizing products?
 
-2) **Marketing view**: How can ML support Marketing teams to better understand the user/visitor and his context and provide the next best action to him?
+2) **Marketing view**: How can ML support Marketing teams to better understand the users/visitors and their context and provide the next best action to them?
 
 Other application areas like self driving vehicles, medical diagnosis, games are mentioned under "3. others".
 
@@ -79,13 +79,13 @@ Mostly all current initiatives are in the state "Discovery" - proofing the value
 | Application  area                        |
 | ---------------------------------------- |
 | Automotive: self driving vehicles (cars, trucks) |
-| humanoid robots                          |
-| medical diagnosis                        |
+| Humanoid robots                          |
+| Medical diagnosis                        |
 | Affective computing - recognition of emotions in faces, speech |
-| face recognition                         |
-| picture recognition (automatic tagging)  |
-| security (public places, traffic)        |
-| games: intelligent agents (deep reinforcement learning) i.e. "Alpha Zero" |
+| Face recognition                         |
+| Picture recognition (automatic tagging)  |
+| Security (public places, traffic)        |
+| Games: intelligent agents (deep reinforcement learning) i.e. "Alpha Zero" |
 | Smart home: ML combined with sensor technique |
 
 
@@ -112,7 +112,7 @@ The following topics are intended to make you curious and to provide you with ne
 
 ### Marketing ###
 
-- Channel Online: Trying to classify the visitor type by analyzing his mouse movements while visiting one of our shops/portals
+- Channel Online: Trying to classify the visitor type by analyzing visitor mouse movements while visiting one of our shops/portals
 - Channel Outbound telephone marketing: daily self-optimizing segment output for telephone calls based on order behavior of past calls.
 
 ## Contact ##
