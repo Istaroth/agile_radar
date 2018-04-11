@@ -7,7 +7,7 @@ quadrant:   data-science-and-analytics
 
 ## Definition ##
 
-Data platform is a type of IT solution that combines the features and capabilities of several data application and sources across company's data landscape within a single solution. It is a platform that enables organization developing, deploying, operating and managing a data infrastructure /environment. 
+Data platform is a type of IT solution that combines the features and capabilities of several data application and sources across a company's entire data landscape within a single solution. It is a platform that enables organization developing, deploying, operating and managing a data infrastructure /environment. 
 Data platform generally consists of storage, servers, databases, big data solutions, BI/Analytics and data management utilities. It also supports integration with other systems.
 
 ## Why? ##
@@ -33,7 +33,7 @@ Data platform generally consists of storage, servers, databases, big data soluti
 
 ## Technology choices/solutions ##
 
-Currently concept is under discussion with Data Lake being preffered solution.
+Currently concept is under discussion with Data Lake being preferred solution.
 
 Data Lake - centralised repository of enterprise data that can meet the needs of various application workloads that gain efficiency through the reusability and consistency of data.
 
