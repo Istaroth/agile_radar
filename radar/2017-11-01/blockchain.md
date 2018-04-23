@@ -7,7 +7,7 @@ quadrant:   infrastructure-and-operational-technology
 
 ## Why? ##
 
-The Blockchain technology is hard to grasp and understand. It is very interesting for us cause there are a lot of possible opportunities that fits to our business.
+The Blockchain technology is hard to grasp and understand. It is very interesting for us because there are a lot of possible opportunities that fits to our business.
 The most popular Blockchain solution is the cryptocurrency [bitcoin](https://www.bitcoin.com/).
 
 But there is much more that is addressed by Blockchain technology:
