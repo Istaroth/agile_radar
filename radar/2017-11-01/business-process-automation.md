@@ -26,8 +26,8 @@ And don't forget Salesforce as business process platform for sales, services, ma
 
 ## Our projects ##
 
-- LexOffice investigates [Zapier](https://zapier.com)
-  Contact: Michael Öztürk
+- [lexoffice](https://www.lexoffice.de/partner/zapier/) is using [zapier](https://zapier.com) for business automation purposes. Actually we provide a fileupload app to connect cloud-storages like DropBox and OneDrive with lexoffice.   
+Contact: <michael.oeztuerk@haufe-lexware.com>
 - ITSM team uses [Servicenow](https://www.servicenow.com) for a lot of automated processes
   Contact: Larissa Wissmann
 

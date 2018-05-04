@@ -30,8 +30,7 @@ Other concepts would be async vs sync, and orchestration vs choreography, dumb n
 ## Our projects ##
 
 - [Rhythmix](https://rhythmix.haufe.com/de) - <andreas.meya@haufe-lexware.com>, <uwe.habicher@haufe-lexware.com>
-- [lexoffice - Addons & Extensions](https://www.lexoffice.de/partner/) - LexOffice REST API supporting OAuth2.   
-LexOffice also provides a [Zapier landingpage](https://www.lexoffice.de/partner/zapier/)   
+- [lexoffice Addons & Extensions:](https://www.lexoffice.de/partner/) lexoffice is continuously working on a Partner-Ecosystem. It´s based on a REST API and OAuth2.   
 Contact: <michael.oeztuerk@haufe-lexware.com>, <frank.steinberg@haufe-lexware.com>
 
 ## Contact ##
