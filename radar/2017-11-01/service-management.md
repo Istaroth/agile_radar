@@ -4,39 +4,34 @@ ring:       scale
 quadrant:   infrastructure-and-operational-technology
 
 ---
+## Why?
+* In order to realize a professional and high quality Service Management within Haufe Group we use the platform of ServiceNow ®.  This platform allows us to model all necessary processes for IT Service Management with a strong workflow engine and the possibility of automation for fast request fulfillment.
+* Beside enabling IT focused service management, the platform offers to implement and optimize workflows throughout the whole company, the so called Enterprise Service Management, e.g. compliant On- and Offboarding processes for employees and product deployment integration into third party marketplaces.
+* Additionally, Service Level Management, which also is included in Service Management, Haufe Group is able to fulfil it’s contractual duties and obligations across all elements of the service delivery chain towards its customers.
 
-![state](./../assets/images/item_state_under_construction.png)
+## Relevant for which units.
+First of all, the platform is relevant to the whole of Haufe Group, due to its nature as a holistic workflow and automation platform. It first major adoption was around the complete internal IT management regarding support processes with more than 20.000 tickets per year (service requests and incidents).
 
-## Why? ##
+As the complete change management is built on the platform, every DevOps-team is working on the platform, most of them use a completely automated approach.
 
-Andreas Plaul and his ITSM Team would be more than happy to drive that topic. But I think other concepts flow into this as well .. how does Aurora for instance deals with SRE
+By widening the span of activities into various directions (see below list of activities) we are aspiring to realize a true and holistic Enterprise Service Management on a consolidated platform, so that all product, internal services or business applications teams will harvest benefits.
 
-A series of blog posts from the Google SRE team dealing with SLIs, SLOs and SLAs:
+## Technology choices/solutions
+ServiceNow
 
-https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html
-https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html?m=1
-https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html
+## Our projects
+* Incident/Problem/Change
+* Service Level Management
+* Facility Management
+* Serviceportal/Service Catalogue >> Request fulfillment
+* ITFM
+* Knowledge Management
+* Event Management
+* CMDB
+* Orchestration/Automation
+* Being the leading data platform for all relevant data related to offered services in operational context
+* IT Service Management/Enterprise Service Management
+* Cloud and provider integration
 
-as well as shared post-mortems
-https://cloudplatform.googleblog.com/2017/12/getting-the-most-out-of-shared-postmortems-CRE-life-lessons.html
-
-Also topics like chatops (the FS team – see above in my blog article on IRC) and Amazon’s ‘Service Wheel’ and ops/bizz dashboarding. 
-
-We can decide to keep this topic extremely narrow and put the tool (ITSM, Service Now) into the focus or we can put the concept
-‘everything a team needs to manage its service in operation’ in the focus.  I would go for the latter ... 
-
-Ultimately it also leads to the concept of ‘local domain of control and global domain of visibility’ ..and who controls which aspects
-
-## Technology choices/solutions ##
-
-List our prefered solutions. It's not necessary or a goal to list all possible solutions. Focus on what we use.
-
-## Our projects ##
-
-List of projects and activities. It's also a good idea to name the contact information for the activity.
-This section is very important cause it documents at what level we are, regarding the usage and experience with the technolgy. 
-
-## Contact ##
-
-Name the main contact persons or unit.
-Use <email@domain.com> for mail contact infos
+## Contact
+<larissa.wissmann@haufe-lexware.com>
