@@ -38,7 +38,7 @@ In addition to deployment automation, the team is using AWS Lambda to process in
 Azure functions are used at Haufe-Lexware Real Estate to implement some REST based Web-Services like News-Service and a Service to exchange data with partners.
 It is planned that these services are used in wowinex in the upcoming year 2018.
 It is fairly easy to develop Azure functions. You have a lot of choices regarding the development language.
-The key driver for the decision to use Azure functions was scalability. If the service are not used we wanted to waste no money. On the other hand we wanted to be able to handle a growing amount of customers and traffic.
+The key driver for the decision to use Azure functions was scalability. If services are not used, Haufe-Lexware does not incur computing costs. On the other hand, we must also be able to handle a growing amount of customers and traffic.
 
 ## Contact ##
 
