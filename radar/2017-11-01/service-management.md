@@ -5,16 +5,16 @@ quadrant:   infrastructure-and-operational-technology
 
 ---
 ## Why?
-* In order to realize a professional and high quality Service Management within Haufe Group we use the platform of ServiceNow ®.  This platform allows us to model all necessary processes for IT Service Management with a strong workflow engine and the possibility of automation for fast request fulfillment.
-* Beside enabling IT focused service management, the platform offers to implement and optimize workflows throughout the whole company, the so called Enterprise Service Management, e.g. compliant On- and Offboarding processes for employees and product deployment integration into third party marketplaces.
-* Additionally, Service Level Management, which also is included in Service Management, Haufe Group is able to fulfil it’s contractual duties and obligations across all elements of the service delivery chain towards its customers.
+* In order to realize a professional and high quality Service Management within Haufe Group we use the ServiceNow ® platform.  This platform allows us to model all necessary processes for IT Service Management with a strong workflow engine and the possibility of automation for fast request fulfillment.
+* Beside enabling IT-focused service management, ServiceNow enables to implement and optimize workflows throughout the whole company:  Enterprise Service Management - e.g. compliant On- and Offboarding processes for employees and product deployment integration into third-party marketplaces.
+* Additionally, To perform Service Level Management, which also is included in Service Management. Haufe Group is able to fulfil its contractual duties and obligations across all elements of the service delivery chain towards its customers.
 
 ## Relevant for which units.
-First of all, the platform is relevant to the whole of Haufe Group, due to its nature as a holistic workflow and automation platform. It first major adoption was around the complete internal IT management regarding support processes with more than 20.000 tickets per year (service requests and incidents).
+Service Now is relevant for the entire Haufe Group a global workflow and automation platform. First major adoption was around the complete internal IT management regarding support processes with more than 20.000 tickets per year (service requests and incidents).
 
-As the complete change management is built on the platform, every DevOps-team is working on the platform, most of them use a completely automated approach.
+Change management is operated from ServiceNow and every DevOps-team is working on the platform: most of them use a completely automated approach.
 
-By widening the span of activities into various directions (see below list of activities) we are aspiring to realize a true and holistic Enterprise Service Management on a consolidated platform, so that all product, internal services or business applications teams will harvest benefits.
+By widening the span of activities into various directions (see below list of activities), we attempt to realize Enterprise Service Management on a single platform, so that all product, internal services or business applications teams benefit from Service Management activities.s
 
 ## Technology choices/solutions
 ServiceNow

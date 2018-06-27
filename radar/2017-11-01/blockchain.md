@@ -45,8 +45,12 @@ Read more [here](https://blockgeeks.com/guides/what-is-blockchain-technology/).
 
 To get a better understanding what problem Blockchain technology tries to solve, read [this article](https://www.coindesk.com/bitcoin-explained-five-year-old/). It explains Blockchain with very cool analogies for a five year old child. 100% buzzword free!
 
+Or, Watch the German video of the [presentation give by Codecentric's Jannik Huels](https://youtu.be/U0wlM7O_aw8) for a detailed definition and purpose of Blockchain (Distributed Ledger Technology).
+
 Good German article that describes what Blockchain is and the potential of the technology.
 https://www.it-finanzmagazin.de/gar-kein-mysterium-blockchain-verstaendlich-erklaert-27960/
+
+Also, you may want to watch this good German video for [Blockchain business use cases by Codecentric's Alexander Sachs](https://youtu.be/W_6dKDujljE?t=2), to show you how blockchain is being used.
 
 ## Blockchain solutions ##
 
