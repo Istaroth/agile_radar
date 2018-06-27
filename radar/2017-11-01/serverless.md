@@ -52,4 +52,4 @@ The key driver for the decision to use Azure functions was scalability. If servi
 
 ## Contact ##
 
-Raul Firu <raul.firu@domain.com>, Rainer Zehnle <rainer.zehnle@haufe-lexware.com>, Frederik Michel <frederik.michel@haufe-lexware.com>, <nils.rhode@haufe-lexware.com> Nils Rhode
+Raul Firu <raul.firu@domain.com>, Rainer Zehnle <rainer.zehnle@haufe-lexware.com>, Frederik Michel <frederik.michel@haufe-lexware.com>, Nils Rhode <nils.rhode@haufe-lexware.com>
