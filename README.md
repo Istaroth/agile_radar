@@ -74,5 +74,5 @@ Editors for technologies can be found in the [technology List](./technologylist.
 
 ## Todos
 
-- [x] Work on the content
+- [x] Work on the content 
 - [x] Implement circle diagram view of the data
