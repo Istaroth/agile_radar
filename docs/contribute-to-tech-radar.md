@@ -8,7 +8,7 @@ It's a good idea to keep this in mind when you decide that you want to contribut
 
 The content for the tech radar is stored in a GitHub repository and edited in Git Markdown format. To be able to contribute, you must know how \(or know someone\) to edit in Git Markdown and [make a pull request from a forked GitHub repository](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). Contributions are mostly reviewed through the Git contribution workflow.
 
-Please follow these steps when you decide to make a contribution.
+Please follow these steps when you decide to make a contribution:
 
 * Inform and agree to a contribution with the cell
 * Contribute content
