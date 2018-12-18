@@ -20,7 +20,7 @@ The team implemented the following apps:
 Memory cards app is running on Hololens. The team also refactored it, so it can ran on smartphones (Android and iOS).   
 A new backend is created to support more topics than the existing presidents and planets.
 * **Lampenfieber app**   
-The app is created by the partner medialesson. The ImmersiveNow team will maintain it.
+The app is being created by the partner medialesson. The ImmersiveNow team will maintain it.
 
-The memory cards apps is already used in Haufe akademie seminars.   
+The memory cards app is already used in Haufe akademie seminars.   
 Lampenfieber app will be finished in December 2018 or Januar 2019. It will be used in Haufe akademie seminars.

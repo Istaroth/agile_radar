@@ -26,11 +26,12 @@ mobile.md                                  | RainerZ            | no      | Chri
 monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
 partner-platform.md                        | RainerZ            | no      | ThomasSc   | no       | write
 public-cloud.md                            | AndreasP           | no      | ThomasSc   | no       | update
+sap-hana.md                                | ChristianL         | no      | ??         | no       | update
 secrets-management.md                      | ChristophL/ThomasSc| no      | RainerZ    | no       | update
 serverless.md                              | RainerZ            | no      | RaulF      | no       | update
 service-management.md                      | AndreasP           | no      | ScottS     | no       | update
 smart-devices.md                           | RainerZ            | no      | ChristianK | no       | update
-virtual-augmented-mixed-reality.md         | RainerZ            | no      | AndreasS   | no       | update
+virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
 voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
 
 ## How to update ##
