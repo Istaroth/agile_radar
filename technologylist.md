@@ -9,7 +9,7 @@ Key Technolgy                              | Author             | Written | Revi
 api-design.md                              | ThomasSc           | no      | RainerZ    | no       | no update
 api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
 api-management.md                          | MartinD            | no      | RainerZ    | no       | update
-blockchain.md                              | RainerZ            | yes     | ChristianK | no       | update
+blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
 business-insights.md                       | RainerK            | no      | RainerZ    | no       | ask RainerK and ThomasSc
 business-process-automation.md             | RainerZ            | no      | ThomasSC   | no       | update - ask lexoffice and Larissa Wissmann
 chatbot.md                                 | ChristianK         | no      | RainerZ    | no       | update
