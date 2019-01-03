@@ -1,6 +1,6 @@
 ---
 title:      "Virtual/Augmented/Mixed Reality"
-ring:       discover
+ring:       productize
 quadrant:   ui-and-devices
 
 ---

@@ -6,7 +6,7 @@ Please update the list whenever you changed something and finished a task.
 
 Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
 -------------------------------------------|--------------------|---------|------------|----------|----------------------------
-api-design.md                              | ThomasSc           | no      | RainerZ    | no       | no update
+api-design.md                              | ThomasSc           | no      | RainerZ    | no       | no update needed
 api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
 api-management.md                          | MartinD            | no      | RainerZ    | no       | update
 blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
