@@ -82,3 +82,7 @@ The following aspects might help decide which vault technology serves your requi
 * While they serve the same purpose from an abstract point of view, the APIs of the cloud offerings have idiosyncrasies that make them not interchangeable without effort. In other words, a decision for any of the cloud offerings means a tighter vendor lock-in. This need not be a knock-out criterion (and maybe your application is already tightly coupled to a particular cloud provider for other reasons), but it should always be a conscious decision.
 * Setting up a HashiCorp Vault means there is yet another system that needs to be operated and managed by your team. In particular, if true _high availability_ is required, then operating a Vault cluster incurs a significant cost (effort-wise and possibly also in terms of money for the extra cloud infrastructure).
 * Some of the complexity of the HashiCorp Vault operation can be reduced by the new auto unseal feature. This effectively combines HashiCorp Vault with one of the cloud vault offerings. However, it still avoids the vendor lock-in since a migration to a different cloud provider comes down to copying the unseal keys into the new cloud vault and a simple change of the configuration of the HashiCorp Vault instance. The secret consumers are not affected by this at all.
+
+## Contact ##
+
+Christoph Ludwig <christoph.ludwig@haufe-lexware.com>
