@@ -25,11 +25,11 @@ machine-learning.md                        | RainerK            | no      |     
 mobile.md                                  | RainerZ            | no      | ChristianK | no       | no update
 monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
 partner-platform.md                        | RainerZ            | no      | ThomasSc   | no       | write
-public-cloud.md                            | AndreasP           | no      | ThomasSc   | no       | update
+public-cloud.md                            | AndreasP           | yes     | ThomasSc   | no       | update
 sap-hana.md                                | ChristianL         | no      | ??         | no       | update
 secrets-management.md                      | ChristophL/ThomasSc| no      | RainerZ    | no       | update
 serverless.md                              | RainerZ            | yes     | RaulF      | no       | update
-service-management.md                      | AndreasP           | no      | ScottS     | no       | update
+service-management.md                      | AndreasP           | no      | ScottS     | no       | no update needed
 smart-devices.md                           | RainerZ            | no      | ChristianK | no       | update
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
 voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
