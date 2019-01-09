@@ -6,7 +6,7 @@ Please update the list whenever you changed something and finished a task.
 
 Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
 -------------------------------------------|--------------------|---------|------------|----------|----------------------------
-api-design.md                              | ThomasSc           | no      | RainerZ    | no       | no update needed
+api-design.md                              | ThomasSc           | ---     | RainerZ    | no       | no update needed
 api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
 api-management.md                          | MartinD            | no      | RainerZ    | no       | update
 blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
@@ -25,11 +25,11 @@ machine-learning.md                        | RainerK            | no      |     
 mobile.md                                  | RainerZ            | no      | ChristianK | no       | no update
 monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
 partner-platform.md                        | RainerZ            | no      | ThomasSc   | no       | write
-public-cloud.md                            | AndreasP           | yes     | ThomasSc   | no       | update
+public-cloud.md                            | AndreasP           | yes     | RainerZ    | yes      | update
 sap-hana.md                                | ChristianL         | no      | ??         | no       | update
-secrets-management.md                      | ChristophL/ThomasSc| no      | RainerZ    | no       | update
+secrets-management.md                      | ChristophL/ThomasSc| yes     | RainerZ    | no       | update
 serverless.md                              | RainerZ            | yes     | RaulF      | no       | update
-service-management.md                      | AndreasP           | no      | ScottS     | no       | no update needed
+service-management.md                      | AndreasP           | ---     | ScottS     | no       | no update needed
 smart-devices.md                           | RainerZ            | no      | ChristianK | no       | update
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
 voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
