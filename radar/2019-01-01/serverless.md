@@ -10,10 +10,14 @@ quadrant:   infrastructure-and-operational-technology
 Serverless architecture is now fully accepted in Haufe Group.
 More and more solutions and services use serverless technology.
 Despite the fact that serverless is highly cloud provider specific teams like the technology cause it offers advantages with reduced infrastructure maintenance efforts and costs.   
-Therefore the classification chnaged from **productize** to **scale**.
+Therefore the classification changed from **productize** to **scale**.
 
 ## Our projects ##
 
+* Open Badges Server
+Haufe Akademie works on providing an [Openbadge](https://openbadges.org/) service for education certificates.
+Integration in the existing Akademie landscape is done with AWS serverless services.   
+Contact Markus Lobreyer <markus.lobreyer@haufe-lexware.com> for more information.
 * myCenter   
 myCenter extends the desktop applications Lexware reisekosten and Lexware fehlzeiten with a webbased client.   
 The client uses a serverless backend (Azure functions).   
