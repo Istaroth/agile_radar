@@ -23,7 +23,7 @@ Users typically enter passwords into web forms or into password dialogs of appli
 
 #### Password Store Operated by ICT ####
 
-ICT operates an instance of [Passwordstate](https://www.clickstudios.com.au/passwordstate.aspx) that's available to everyone with an Haufe Active Directory account at <https://pw.it.haufe-group.com/>, accessible via the intranet or via VPN connections. As a Web application, it does not require any extra software to be installed on the user's machine and ICT takes care of backups etc.
+ICT operates an instance of [Passwordstate](https://www.clickstudios.com.au/passwordstate.aspx) that's available to everyone with an Haufe Active Directory account, accessible via the intranet or via VPN connections. As a Web application, it does not require any extra software to be installed on the user's machine and ICT takes care of backups etc.
 
 Furthermore, passwordstate makes it easy to share passwords within teams since access to password lists can be based on membership in Active Directory groups. For instance, a team that together manages and operates an application can store the necessary admin password in a shared password list that can be accessed by all members of this team's mailing list. When a colleague leaves the team and is therefore removed from the mailing list, this colleague will no longer be able to access this password list.
 
@@ -46,7 +46,7 @@ The more applications we operate ourselves, the more secrets we have to manage:
 
 * service applications need database credentials, API keys, etc.;
 * deploy scripts need access to cloud credentials in order to provision the required infrastructure (or to decomission it when no longer needed) and access to, say, private SSH keys in order to set up VMs using configuration management tools like [Ansible](https://www.ansible.com/);
-* build agents need credentials to upload the produced files into Haufe's artifact reporistory or container image registry;
+* build agents need credentials to upload the produced files into Haufe's artifact repository or container image registry;
 * TLS credentials (i.e., an X.509 certificate and the corresponding private key) need to be deployed into the application or into the cloud service that terminate https connections;
 * and so forth
 
