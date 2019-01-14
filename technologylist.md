@@ -30,7 +30,7 @@ sap-hana.md                                | ChristianL         | no      | ??  
 secrets-management.md                      | ChristophL/ThomasSc| yes     | RainerZ    | no       | update
 serverless.md                              | RainerZ            | yes     | RaulF      | no       | update
 service-management.md                      | AndreasP           | ---     | ScottS     | no       | no update needed
-smart-devices.md                           | RainerZ            | no      | ChristianK | no       | update
+smart-devices.md                           | RainerZ            | ---     | ChristianK | ---      | no update - nothing changed
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
 voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
 

@@ -9,7 +9,7 @@ quadrant:   infrastructure-and-operational-technology
 
 Serverless architecture is now fully accepted in Haufe Group.
 More and more solutions and services use serverless technology.
-Despite the fact that serverless is highly cloud provider specific teams like the technology cause it offers advantages with reduced infrastructure maintenance efforts and costs.   
+Despite the fact that serverless is highly cloud provider specific, teams prefer the technology cause it offers advantages regarding reduced infrastructure maintenance efforts and costs.   
 Therefore the classification changed from **productize** to **scale**.
 
 ## Our projects ##
@@ -23,5 +23,5 @@ myCenter extends the desktop applications Lexware reisekosten and Lexware fehlze
 The client uses a serverless backend (Azure functions).   
 Contact Frank Laule <frank.laule@haufe-lexware.com> for more information.
 * VR Memorycards App   
-The Memorycard App uses a serverless backend (Azure functions) to provide the topics and ressources for the app.   
+The Memorycard App uses a serverless backend (Azure functions) to provide the topics and resources for the app.   
 Contact Rainer Zehnle <rainer.zehnle@haufe-lexware.com> for more information.
