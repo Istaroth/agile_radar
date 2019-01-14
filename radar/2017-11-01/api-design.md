@@ -24,4 +24,4 @@ The [API Style Guidelines](https://github.com/Haufe-Lexware/api-style-guide)
 
 ## Contact ##
 
-Rainer Zehnle <rainer.zehnle@haufe-lexware.com>, Holger Reinhardt <holger.reinhardt@haufe-lexware.com> and everybody in CTO Office <_LeadArcsCTO@haufe-lexware.com>
+Rainer Zehnle <rainer.zehnle@haufe-lexware.com>, Raul Firu <raul.firu@haufe-lexware.com> and everybody in CTO Office <_LeadArcsCTO@haufe-lexware.com>
