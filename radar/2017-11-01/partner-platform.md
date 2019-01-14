@@ -19,4 +19,4 @@ To support automated and integrated processes, applications must offer APIs. A m
 
 - [lexoffice Addons & Extensions:](https://www.lexoffice.de/partner/) lexoffice is continuously working on a Partner-Ecosystem. It´s based on a REST API and OAuth2.   
 Contact: <michael.oeztuerk@haufe-lexware.com>, <frank.steinberg@haufe-lexware.com>
-- [lexbizz](https://www.lexbizz.de/) offers a [partner program](https://lexbizz.haufe-lexware.com/partnerprogramm/)
+- [lexbizz](https://www.lexbizz.de/): lexbizz puts its trust in partners and offers a [partner program](https://lexbizz.haufe-lexware.com/partnerprogramm/)
