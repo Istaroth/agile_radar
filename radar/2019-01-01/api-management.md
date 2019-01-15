@@ -13,7 +13,7 @@ Since the last update of the Tech Radar, our API Management solution [wicked.hau
 
 Even more now, API Management should be used as a means of decoupling systems and giving standardized access to APIs of different projects, while not having to reinvent the authentication and authorization wheel all over again. As for wicked, it is now possible to do fairly lightweight integrations with arbitrary Identity Providers, also of course including our own Foundational Services (SAML2 identity provider).
 
-wicked itself is approaching a first fully featured version 1.0; the feature set was primarily formed by the Datev integration project, [myOnboarding](https://developer.myonboarding.de), Panama (which is also transitioning to wicked from Azure API Management) and the [Developer Portal by Clarivate Analytics](https://developer.clarivate.com).
+wicked itself is approaching a first fully featured version 1.0; the feature set was primarily formed by the Sucasa project (new "Mein Konto" application), [myOnboarding](https://developer.myonboarding.de), Panama (which is also transitioning to wicked from Azure API Management) and the [Developer Portal by Clarivate Analytics](https://developer.clarivate.com).
 
 API Management can help with federating authentication and handling authorization, while giving a simpler way to integrate with the project. This has an even greater impact on the extensibility if the project itself is formed around an "API first" approach.
 
