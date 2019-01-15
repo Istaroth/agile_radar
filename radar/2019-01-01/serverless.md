@@ -1,6 +1,6 @@
 ---
 title:      "Serverless"
-ring:       productize
+ring:       scale
 quadrant:   infrastructure-and-operational-technology
 
 ---
