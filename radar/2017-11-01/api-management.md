@@ -24,13 +24,13 @@ We have our own API Management solution called Wicked. It is the recommended sol
 
 ### Azure API Management ###
 
-Azure API Management is used in the panama project.
+Azure API Management is used in the Panama project.
 
 ## Our projects ##
 
 ### Wicked API Management ###
 
-Martin Danielsson from CTO Office created our own API Management solution. It's open source and we are very proud of it.
+Martin Danielsson from CTO Office created our own API Management solution. It has been fully open sourced, and we encourage anybody to contribute:
 
 - [http://wicked.haufe.io/](http://wicked.haufe.io/)
 - [https://github.com/Haufe-Lexware/wicked.haufe.io](https://github.com/Haufe-Lexware/wicked.haufe.io)
