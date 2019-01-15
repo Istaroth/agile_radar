@@ -8,7 +8,7 @@ Key Technolgy                              | Author             | Written | Revi
 -------------------------------------------|--------------------|---------|------------|----------|----------------------------
 api-design.md                              | ThomasSc           | ---     | RainerZ    | no       | no update needed
 api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
-api-management.md                          | MartinD            | no      | RainerZ    | no       | update
+api-management.md                          | MartinD            | yes     | ChristophL | yes      | update
 blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
 business-insights.md                       | RainerK            | no      | RainerZ    | no       | ask RainerK and ThomasSc
 business-process-automation.md             | RainerZ            | no      | ThomasSC   | no       | update - ask lexoffice and Larissa Wissmann
