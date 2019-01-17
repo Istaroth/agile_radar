@@ -1,7 +1,51 @@
-﻿# List of key technologies, authors and reviewers #
+﻿# Update list of key technologies, authors and reviewers #
 
+It is time to update the tech radar.
 The intention of this list is to assign clear tasks to authors and reviewers.
 Please update the list whenever you changed something and finished a task.
+
+Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
+-------------------------------------------|--------------------|---------|------------|----------|----------------------------
+api-design.md                              | ThomasSc           | ---     | RainerZ    | no       | no update needed
+api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
+api-management.md                          | MartinD            | no      | RainerZ    | no       | update
+blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
+business-insights.md                       | RainerK            | no      | RainerZ    | no       | ask RainerK and ThomasSc
+business-process-automation.md             | RainerZ            | no      | ThomasSC   | no       | update - ask lexoffice and Larissa Wissmann
+chatbot.md                                 | ChristianK         | no      | RainerZ    | no       | update
+collaboration.md                           | RainerZ            | no      | ThomasSc   | no       | update needed (People.Os, lexoffice)
+continuous-integration-and-delivery.md     | MarkusW, NicolasD  | no      | RainerZ    | no       | update
+data-analytics.md                          | JerseyK            | no      | RainerK    | no       | update
+data-platform.md                           | JerseyK            | no      | RainerK    | no       | update
+docker.md                                  | ThomasSc           | no      | RainerZ    | no       | update
+it-security.md                             | JochenV            | no      |            | no       | hide
+lms.md                                     | RainerZ            | no      |            | no       | hide
+logging.md                                 | ThomasSc           | no      | RainerZ    | no       | update
+machine-learning.md                        | RainerK            | no      |            | no       | update
+mobile.md                                  | RainerZ            | no      | ChristianK | no       | no update
+monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
+partner-platform.md                        | RainerZ            | no      | ThomasSc   | no       | write
+public-cloud.md                            | AndreasP           | yes     | RainerZ    | yes      | update
+sap-hana.md                                | ChristianL         | no      | ??         | no       | update
+secrets-management.md                      | ChristophL/ThomasSc| yes     | RainerZ    | no       | update
+serverless.md                              | RainerZ            | yes     | RaulF      | no       | update
+service-management.md                      | AndreasP           | ---     | ScottS     | no       | no update needed
+smart-devices.md                           | RainerZ            | ---     | ChristianK | ---      | no update - nothing changed
+virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
+voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
+
+## How to update ##
+
+The original entry is stored in the folder "2017-11-01".
+The update is written in the folder "2019-01-01" in the file with the same name.
+The tech radar renders finally one document containing the whole content.
+
+## Timeline ##
+
+The target is to get a quick first result of the techradar that we can present to the Haufe Group.
+We will incorporate the customer feedback and hope to set a starting point for a vivid discussion about our state in some key technologies.
+
+# Initial list of key technologies, authors and reviewers #
 
 Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
 -------------------------------------------|--------------------|---------|------------|----------|----------------------------
@@ -32,7 +76,3 @@ smart-devices.md                           | RainerZ            | no      | Chri
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | RaulF      | no       | ok
 voice.md                                   | ChristianK         | yes     | RainerZ    | no       | ok
 
-## Timeline ##
-
-The target is to get a quick first result of the techradar that we can present to the Haufe Group.
-We will incorporate the customer feedback and hope to set a starting point for a vivid discussion about our state in some key technologies.
