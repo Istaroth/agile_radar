@@ -27,14 +27,14 @@ Because data gathering is a part of SNA / ONA - legal rquirements for data secur
 ## Areas of Application ##
 
 General application social network analysis is to locate the social network characteristics of an organization or suborganiztion like
-- Communities within the network
+- [Communities within the network](https://en.wikipedia.org/wiki/Community_structure#Importance)
 - How "connected" are networks and communities in these networks
-- Where are the highly connected areas and where are the poorly connected areas
+- location of the [highly connected areas](https://en.wikipedia.org/wiki/Small-world_network#Properties_of_small-world_networks) and where are the [poorly connected areas](https://en.wikipedia.org/wiki/Structural_holes)
 - Types of relationships between people within a network
 - Which of relationships are most important, e.g. form the basis of communities
 - Centrally located "Popular" people, people who connect different parts of a network
 
-This is done with network graph technologies. 
+This is facilitated with network graph technologies. 
 
 ## Technology choices/solutions ##
 
@@ -42,18 +42,18 @@ Technology choices for two areas:
 - Storage 
 - Visualization
 
-Storage can be done via graph databases (but doesn't have to be). One special characteristic of graph databases is that relationships (connections) are first class citizens. This gives graph databases a semantic and performance advantage as the data store for "networks" of all types. Popular graph databases are:
-- Neo4J
-- Stardog
+Storage can be done via [graph databases](https://neo4j.com/why-graph-databases/) (but doesn't have to be). One special characteristic of graph databases is that relationships (connections) are first class citizens. This gives graph databases a semantic and performance advantage as the data store for "networks" of all types. Popular graph databases are:
+- [Neo4J](https://neo4j.com/product/)
+- [Stardog](https://www.stardog.com/why-stardog/)
 - AllegroDB
 
 Visualization tools enable creating insightful social network graph visuals for analyzing and presenting.
-- Gephi
+- [Gephi](https://gephi.org/)
 - Neo4J Bloom
-- Pajek 
+- Pajek
 
 Software visualization libraries
-- Sigma.js
+- [Sigma.js](http://sigmajs.org/) - [SJS Source](https://github.com/jacomyal/sigma.js/)
 
 
 ## Our projects ##
