@@ -32,7 +32,7 @@ General application social network analysis is to locate the social network char
 - location of the [highly connected areas](https://en.wikipedia.org/wiki/Small-world_network#Properties_of_small-world_networks) and where are the [poorly connected areas](https://en.wikipedia.org/wiki/Structural_holes)
 - Types of relationships between people within a network
 - Which of relationships are most important, e.g. form the basis of communities
-- Centrally located "Popular" people, people who connect different parts of a network
+- [Centrally located "Popular" people who influence their communities](https://en.wikipedia.org/wiki/Social_marketing_intelligence), [people who connect different parts of a network](https://en.wikipedia.org/wiki/Bridge_(interpersonal))
 
 This is facilitated with network graph technologies. 
 
@@ -55,15 +55,22 @@ Visualization tools enable creating insightful social network graph visuals for 
 Software visualization libraries
 - [Sigma.js](http://sigmajs.org/) - [SJS Source](https://github.com/jacomyal/sigma.js/)
 
+Machine Learning
+- python-based ML
+- R-based ML
+- Native algorithms like neo4j graph algorithms
+
 
 ## Our projects ##
 
-DLX - by Akademie is experimenting with the NEO4J graph database as the underlying datastore for this product, storing entities like people, learning topics, video clips as nodes and events - "likes", "watched", "has_a_skil" - as relationships. Nodes and relationships are to be based on the 10%, 20%, 70% learning principle: where learning takes place as - 
+DLX - by Akademie is experimenting with the NEO4J graph database as the underlying datastore for this product, storing entities like people, learning topics, video clips as nodes and events - "likes", "watched", "has_a_skil" - as relationships (10% relationships). Nodes and relationships are to be based on the 10%, 20%, 70% learning principle: where learning takes place as - 
 - 10% formal training
 - 20% mentoring
 - 70% learning on the job
 
-ONA - Research into discovering organizational networks for People.OS. Team ONA has successfully extracted organizational networks by analyzing communication patterns through machine learning. 
+By calculating the users preferences for what they want to learn it is possible to create a new relationship, Similarity, and "find learning communities" by running a community findng algorithm. 
+
+ONA - Research into discovering organizational networks for People.OS. Team ONA has successfully extracted organizational networks by analyzing communication patterns through machine learning to locate the so called "alpha" influencers in the . 
 
 ## Contact ##
 
