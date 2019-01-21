@@ -15,8 +15,8 @@ business-process-automation.md             | RainerZ            | no      | Thom
 chatbot.md                                 | ChristianK         | no      | RainerZ    | no       | update
 collaboration.md                           | RainerZ            | no      | ThomasSc   | no       | update needed (People.Os, lexoffice)
 continuous-integration-and-delivery.md     | MarkusW, NicolasD  | no      | RainerZ    | no       | update
-data-analytics.md                          | JerseyK            | no      | RainerK    | no       | update
-data-platform.md                           | JerseyK            | no      | RainerK    | no       | update
+data-analytics.md                          | JerseyK            | yes     | RainerZ    | yes      | update
+data-platform.md                           | JerseyK            | yes     | RainerZ    | yes      | update
 docker.md                                  | ThomasSc           | no      | RainerZ    | no       | update
 it-security.md                             | JochenV            | no      |            | no       | hide
 lms.md                                     | RainerZ            | no      |            | no       | hide
@@ -24,7 +24,7 @@ logging.md                                 | ThomasSc           | no      | Rain
 machine-learning.md                        | RainerK            | no      |            | no       | update
 mobile.md                                  | RainerZ            | no      | ChristianK | no       | no update
 monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
-partner-platform.md                        | RainerZ            | no      | ThomasSc   | no       | write
+partner-platform.md                        | RainerZ            | yes     | ThomasSc   | no       | updated original entry
 public-cloud.md                            | AndreasP           | yes     | RainerZ    | yes      | update
 sap-hana.md                                | ChristianL         | no      | ??         | no       | update
 secrets-management.md                      | ChristophL/ThomasSc| yes     | RainerZ    | no       | update

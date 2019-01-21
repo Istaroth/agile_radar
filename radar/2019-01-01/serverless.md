@@ -14,6 +14,11 @@ Therefore the classification changed from **productize** to **scale**.
 
 ## Our projects ##
 
+* HRS
+The HRS team finished reengineering of the EDB (court decision database) based on serverless technology.
+Nils Rhode <nils.rhode@haufe-lexware.com> presented the approach and outcome at several conferences like AWS Summit, [x-celerate](https://www.x-celerate.de/) and Haufe internal community days.
+You can find his presentation [here](https://www.slideshare.net/nilsrhode04).
+
 * Open Badges Server
 Haufe Akademie works on providing an [Openbadge](https://openbadges.org/) service for education certificates.
 Integration in the existing Akademie landscape is done with AWS serverless services.   
