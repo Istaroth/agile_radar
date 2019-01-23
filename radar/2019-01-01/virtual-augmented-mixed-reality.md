@@ -22,5 +22,9 @@ A new backend is created to support more topics than the existing presidents and
 * **Lampenfieber app**   
 The app is being created by the partner medialesson. The ImmersiveNow team will maintain it.
 
-The memory cards app is already used in Haufe akademie seminars.   
-Lampenfieber app will be finished in December 2018 or Januar 2019. It will be used in Haufe akademie seminars.
+The memory cards app is already used in Haufe akademie seminars like [Mit Speed Reading und mega memory® Gedächtnistraining die Infoflut meistern](https://www.haufe-akademie.de/1932).   
+
+Watch the video to see what attendee think about it.   
+[![Watch the video](https://www.haufe-akademie.de/downloads_shop/images/70101.jpg)](https://youtu.be/fYj2UM0PeNk) 
+
+Lampenfieber app will be finished in Januar 2019. It will be used in Haufe akademie seminars.
