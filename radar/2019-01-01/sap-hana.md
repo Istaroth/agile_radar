@@ -1,6 +1,6 @@
 ---
 title:      "SAP HANA"
-ring:       discover
+ring:       productize
 quadrant:   data-science-and-analytics
 
 ---
