@@ -6,24 +6,23 @@ Please update the list whenever you changed something and finished a task.
 
 Key Technolgy                              | Author             | Written | Reviewer   | Reviewed | State
 -------------------------------------------|--------------------|---------|------------|----------|----------------------------
-api-design.md                              | ThomasSc           | ---     | RainerZ    | no       | no update needed
-api-discovery.md                           | ThomasSc           | no      | RainerZ    | no       | update 
+api-design.md                              | RainerZ            | ---     | MartinD    | ---      | no update needed
+api-discovery.md                           | ThomasSc           | yes     | RainerZ    | yes      | update
 api-management.md                          | MartinD            | yes     | ChristophL | yes      | update
 blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
 business-insights.md                       | RainerK            | no      | RainerZ    | no       | ask RainerK and ThomasSc
-business-process-automation.md             | RainerZ            | no      | ThomasSC   | no       | update - ask lexoffice and Larissa Wissmann
+business-process-automation.md             | RainerZ            | ---     | ThomasSC   | ---      | no update needed according to Michael Ötztürk
 chatbot.md                                 | ChristianK         | no      | RainerZ    | no       | update
-collaboration.md                           | RainerZ            | no      | ThomasSc   | no       | update needed (People.Os, lexoffice)
-continuous-integration-and-delivery.md     | MarkusW, NicolasD  | no      | RainerZ    | no       | update
+collaboration.md                           | RainerZ            | ---     | ThomasSc   | ---      | update postponed - AKA will deliver input
+continuous-integration-and-delivery.md     | MarkusW, NicolasD  | ---     | RainerZ    | no       | update
 data-analytics.md                          | JerseyK            | yes     | RainerZ    | yes      | update
 data-platform.md                           | JerseyK            | yes     | RainerZ    | yes      | update
-docker.md                                  | ThomasSc           | no      | RainerZ    | no       | update
-it-security.md                             | JochenV            | no      |            | no       | hide
-lms.md                                     | RainerZ            | no      |            | no       | hide
-logging.md                                 | ThomasSc           | no      | RainerZ    | no       | update
+docker.md                                  | ThomasSc           | yes     | RainerZ    | no       | update
+it-security.md                             | JochenV            | ---     | ---        | ---      | hide
+logging.md                                 | ThomasSc           | yes     | RainerZ    | yes      | update
 machine-learning.md                        | RainerK            | no      |            | no       | update
-mobile.md                                  | RainerZ            | no      | ChristianK | no       | no update
-monitoring.md                              | ThomasSc           | no      | RainerZ    | no       | update
+mobile.md                                  | RainerZ            | ---     | ChristianK | ---      | no update
+monitoring.md                              | ThomasSc           | yes     | RainerZ    | yes      | update
 partner-platform.md                        | RainerZ            | yes     | ThomasSc   | no       | updated original entry
 public-cloud.md                            | AndreasP           | yes     | RainerZ    | yes      | update
 sap-hana.md                                | ChristianL         | no      | ??         | no       | update
@@ -33,6 +32,7 @@ service-management.md                      | AndreasP           | ---     | Scot
 smart-devices.md                           | RainerZ            | ---     | ChristianK | ---      | no update - nothing changed
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
 voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
+Social_Network_Graph_Technology.md         | ScottS             | yes     | RainerZ    | no       | update
 
 ## How to update ##
 

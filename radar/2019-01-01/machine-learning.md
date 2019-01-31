@@ -5,6 +5,7 @@ quadrant:   data-science-and-analytics
 ---
 
 
+<<<<<<< HEAD
 ##Status Update for "Machine Learning" (January 2019) ##
 
 
@@ -71,3 +72,11 @@ Contact: scott.speights@haufe-lexware.com
 
 
 If you want to add your own machine learning initiative, please contact rainer.kempkes@haufe-lexware.com or scott.speights@haufe-lexware.com.
+=======
+What happened/changed in the time from 1.1.2018 till 1.1.2019
+
+I hope that Rainer Kempkes can deliver soon. Raaaaaiiiiiner!
+
+
+![state](./../assets/images/waiting-for-action.png)
+>>>>>>> f8c27ea0937f4e017e135683d912a1224b2586cd
