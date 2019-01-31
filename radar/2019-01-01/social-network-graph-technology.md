@@ -1,7 +1,7 @@
 ---
-title:      "Social Network Analysis (SNA) / Organizational Network Analysis (ONA)"
+title:      "SNA"
 ring:       discover
-quadrant:   infrastructure-and-operational-technology
+quadrant:   data and analysis
 
 ---
 
@@ -10,15 +10,9 @@ quadrant:   infrastructure-and-operational-technology
 ## Why? ##
 Social network analysis (SNA) is the process of investigating social structures through the use of [networks](https://en.wikipedia.org/wiki/Network_theory) and [graph theory](https://en.wikipedia.org/wiki/Graph_theory). (Wikipedia contributors, "Social network analysis," Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Social_network_analysis&oldid=876624675 (accessed January 8, 2019).). 
 
-Because of the great explanatory power of SNA and availability of technology to store, visualize and analyze social networks, exploring how to use SNA to help recommend things like useful content and actions for customers using our software products, and, to better analyze and understand for customers, who want to transform their organization has potential.
+Because of the great explanatory power of SNA and availability of technology to store, visualize and analyze social networks, exploring how to use SNA to help recommend things like useful content and actions for customers using our software products, and, to better analyze and understand for customers, who want to transform their organization, has potential.
 
-Haufe Group has recently developed effective methodologies like Rythmix and product ideas like People OS for understanding pain, identifying challenges within customer organizations and guiding customer transformations. This new business model has opened opportunities for offering cross-sections of the HG product portfolio that were previously not imagined. But, to acquire customers, this kind business model requires a deep understanding of customer challenges: more accurately, Haufe Group must demonstrate that it has a better understanding of these challenges than competitors, who want to acquire the same businesses.  The idea is -
-
-Adding social network graphing to HG software products enables Haufe Group to directly obtain a wealth of valuable data for what customer employees need to be successful - low-cost and automated - and - parallel to other methods like Rythmix and prioritized technology like machine learning. 
-
-Using this data to model networks in a legal, ethical way and performing social network analysis, provides a powerful, complementary source of information, that enables deep understanding of the true working of customer organizations based on real or hypothesized relationships between people. 
-
-Leveraging this understanding to analyze customer organizations has potential to enhance decision making for transformation processes and change management, which, in turn, can strengthen the commercial strategy, improve the product offering of Haufe Group and raise the value of what we provide to our customers . 
+Haufe Group has recently developed effective methodologies like Rythmix and product ideas like People OS for understanding pain, identifying challenges within customer organizations and guiding customer transformations. This new business model has opened opportunities for offering cross-sections of the HG product portfolio that were previously not imagined. But, to acquire customers, this kind business model requires a deep understanding of customer challenges: Soemthing that SNA can help provide - 
 
 ## Special constraints ##
 
@@ -68,18 +62,16 @@ DLX - by Akademie is experimenting with the NEO4J graph database as the underlyi
 - 20% mentoring
 - 70% learning on the job
 
-By calculating the users preferences for what they want to learn it is possible to create a new relationship, Similarity, and "find learning communities" by running a community findng algorithm. 
-
-ONA - Research into discovering organizational networks for People.OS. Team ONA has successfully extracted organizational networks by analyzing communication patterns through machine learning to locate the so called "alpha" influencers in the . 
+ONA - Research into discovering organizational networks for People.OS. Team ONA has successfully extracted organizational networks by analyzing communication patterns through machine learning to locate the so called "alpha" influencers.
 
 ## Contact ##
 
-DLX
+### DLX ###
 
 Felix.Kubasch@haufe-lexware.com - Product Owner DLX
 
-ONA
+### ONA ###
 
-Agron.Fazliu@haufe.com
+Agron.Fazliu@haufe.com 
 
 Vladimir.Mijatovic@haufe.com
