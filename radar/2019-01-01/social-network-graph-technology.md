@@ -12,8 +12,8 @@ Social network analysis (SNA) is the process of investigating social structures 
 
 Because of the great explanatory power of SNA and availability of technology to store, visualize and analyze social networks, exploring how to use SNA to help recommend things like useful content and actions for customers using our software products, and, to better analyze and understand for customers, who want to transform their organization, has potential.
 
-Haufe Group has recently developed effective methodologies like Rythmix and product ideas like People OS for understanding pain, identifying challenges within customer organizations and guiding customer transformations. This new business model has opened opportunities for offering cross-sections of the HG product portfolio that were previously not imagined. But, to acquire customers, this kind business model requires a deep understanding of customer challenges: Soemthing that SNA can help provide - 
-
+Haufe Group has recently developed effective methodologies like Rythmix and product ideas like People OS for understanding pain, identifying challenges within customer organizations and guiding customer transformations. This new business model has opened opportunities for offering cross-sections of the HG product portfolio that were previously not imagined. But, to acquire customers, this kind business model requires a deep understanding of customer challenges: Soemthing that SNA can help provide.
+<!-- 
 ## Special constraints ##
 
 Because data gathering is a part of SNA / ONA - legal rquirements for data security must be observed. 
@@ -28,7 +28,7 @@ General application social network analysis is to locate the social network char
 - Which of relationships are most important, e.g. form the basis of communities
 - [Centrally located "Popular" people who influence their communities](https://en.wikipedia.org/wiki/Social_marketing_intelligence), [people who connect different parts of a network](https://en.wikipedia.org/wiki/Bridge_(interpersonal))
 
-This is facilitated with network graph technologies. 
+This is facilitated with network graph technologies.  -->
 
 ## Technology choices/solutions ##
 
