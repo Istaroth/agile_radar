@@ -1,7 +1,7 @@
 ---
 title:      "SNA"
 ring:       discover
-quadrant:   data and analysis
+quadrant:   data-science-and-analytics
 
 ---
 
