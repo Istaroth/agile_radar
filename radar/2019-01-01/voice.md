@@ -12,4 +12,4 @@ We have developed over time serval skills and PoCs. Some of them are available f
 * [Haufe.de News Skill](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Haufe-de/dp/B075RB74BY/)
 * [Karriere Boost Skill](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Karriere/dp/B07FMCQG5P/)
 
-Furthermore, [Haufe.de News](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Haufe-de/dp/B075RB74BY/) and [Karriere Boost](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Karriere/dp/B07FMCQG5P/) are intented to work as well on the show devices.
+Furthermore, [Haufe.de News](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Haufe-de/dp/B075RB74BY/) and [Karriere Boost](https://www.amazon.de/Haufe-Lexware-GmbH-Co-KG-Karriere/dp/B07FMCQG5P/) are intented to work as well on the [Alexa show devices](https://www.amazon.de/Amazon-Premiumlautsprecher-brillantem-10-Zoll-HD-Display-Schwarz-Alexa/dp/B0793C38JY).
