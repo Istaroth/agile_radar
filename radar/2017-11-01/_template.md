@@ -64,3 +64,13 @@ Use <email@domain.com> for mail contact infos
 ### Embed video in page ###
 Video is displayed in the page itself. It is realized via iframe.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
+
+### State of a page ###
+Place one of these lines at the beginning of your text
+
+Review State
+![state](./../assets/images/item_state_under_review.png)
+
+Under construction
+![state](./../assets/images/item_state_under_construction.png)
+

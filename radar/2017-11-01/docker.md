@@ -5,8 +5,6 @@ quadrant:   infrastructure-and-operational-technology
 
 ---
 
-![state](./../assets/images/item_state_under_review.png)
-
 ## Why? ##
 
 [Docker](https://www.docker.com/) is a technology to implement the [**infrastructure as code**](https://martinfowler.com/bliki/InfrastructureAsCode.html) principle.
