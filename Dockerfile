@@ -1,4 +1,4 @@
-FROM node:7.10.1 as source
+FROM node:10.15.1 as source
 WORKDIR /src/haufe-techradar
 COPY . ./
 RUN npm install
