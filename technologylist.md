@@ -10,9 +10,9 @@ api-design.md                              | RainerZ            | ---     | Mart
 api-discovery.md                           | ThomasSc           | yes     | RainerZ    | yes      | update
 api-management.md                          | MartinD            | yes     | ChristophL | yes      | update
 blockchain.md                              | RainerZ            | yes     | MarkusL    | yes      | update
-business-insights.md                       | RainerK            | no      | RainerZ    | no       | ask RainerK and ThomasSc
+business-insights.md                       | RainerK            | ---     | RainerZ    | ---      | ask RainerK and ThomasSc
 business-process-automation.md             | RainerZ            | ---     | ThomasSC   | ---      | no update needed according to Michael Ötztürk
-chatbot.md                                 | ChristianK         | no      | RainerZ    | no       | update
+chatbot.md                                 | ChristianK         | yes     | RainerZ    | no       | update
 collaboration.md                           | RainerZ            | ---     | ThomasSc   | ---      | update postponed - AKA will deliver input
 continuous-integration-and-delivery.md     | MarkusW, NicolasD  | ---     | RainerZ    | no       | update
 data-analytics.md                          | JerseyK            | yes     | RainerZ    | yes      | update
@@ -20,7 +20,7 @@ data-platform.md                           | JerseyK            | yes     | Rain
 docker.md                                  | ThomasSc           | yes     | RainerZ    | no       | update
 it-security.md                             | JochenV            | ---     | ---        | ---      | hide
 logging.md                                 | ThomasSc           | yes     | RainerZ    | yes      | update
-machine-learning.md                        | RainerK            | no      |            | no       | update
+machine-learning.md                        | RainerK            | yes     |            | no       | update
 mobile.md                                  | RainerZ            | ---     | ChristianK | ---      | no update
 monitoring.md                              | ThomasSc           | yes     | RainerZ    | yes      | update
 partner-platform.md                        | RainerZ            | yes     | ThomasSc   | no       | updated original entry
@@ -31,8 +31,8 @@ serverless.md                              | RainerZ            | yes     | Raul
 service-management.md                      | AndreasP           | ---     | ScottS     | no       | no update needed
 smart-devices.md                           | RainerZ            | ---     | ChristianK | ---      | no update - nothing changed
 virtual-augmented-mixed-reality.md         | RainerZ            | yes     | AndreasS   | no       | update
-voice.md                                   | ChristianK         | no      | RainerZ    | no       | update
-Social_Network_Graph_Technology.md         | ScottS             | yes     | RainerZ    | no       | update
+voice.md                                   | ChristianK         | yes     | RainerZ    | no       | update
+social-network-graph-technology.md         | ScottS             | yes     | RainerZ    | no       | update
 
 ## How to update ##
 
