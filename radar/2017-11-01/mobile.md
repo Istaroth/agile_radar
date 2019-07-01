@@ -39,12 +39,12 @@ The list is a small selection of example projects. There are many more mobile pr
   Angular.js based single page app. Contact: <martin.danielsson@haufe-lexware.com>
 - Lexware mobile   
   Responsive web app. Contact: <bjoern.streule@haufe-lexware.com>
-- LexOffice   
+- lexoffice   
   Native iOS und Android solution. Contact: <thomas.doerr@haufe-lexware.com>
 - Helios   
   Contact: <christoph.ludwig@haufe-lexware.com>
 - Onboarding app   
-  React native based app. Contact: <karsten.gaebert@haufe-lexware.com>
+  React native based app. Contact: <martin.danielsson@haufe-lexware.com>
 - DigiLib app   
   Contact: <raul.firu@haufe-lexware.com>
 

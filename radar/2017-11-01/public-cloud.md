@@ -39,7 +39,7 @@ New projects that use the public cloud from the start.
 <!-- @sarabadanie Maybe it's a good idea to say which ones are lift and shift and which are native? -->
 
 Some samples:
-- LexOffice
+- lexoffice
 - Foundational Services
 - iDesk
 

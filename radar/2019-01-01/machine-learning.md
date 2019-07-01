@@ -19,7 +19,7 @@ quadrant:   data-science-and-analytics
 #General
 
 The continuing journey to understand and master machine learning as a core technical comtepency at Haufe Group
-In some projects like HZM and in LexOffice, ML is being incorporated into the working discussions of the product teams and so it’s also a valid point for learning how to work with ML. 
+In some projects like HZM and in lexoffice, ML is being incorporated into the working discussions of the product teams and so it’s also a valid point for learning how to work with ML. 
 Several initiatives have taken place:
 -	AI Foundation (CTO initiative) 
 -	Customer Analytics
