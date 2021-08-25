@@ -1,13 +1,13 @@
-# Haufe Technology Radar
+# Agile Radar
 
-A static site generator for Haufe Technology Radar
+A static site generator for an Agile Radar (derived from TechRadars by AOE and Haufe). The goal is to track agile frameworks, methods and tools.
 
 ## Installation
 
 ```cmd
 
-> git clone https://github.com/Haufe-Lexware/aoe_technology_radar.git
-> cd aoe_technology_radar
+> git clone https://github.com/Istaroth/agile_radar.git
+> cd agile_radar
 > npm install
 > npm run watch
 ```
@@ -16,8 +16,8 @@ A static site generator for Haufe Technology Radar
 
 ## Original version
 
-The Haufe Technology radar is a fork of the AOE technology radar, that you can find on [https://github.com/AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar).
-Thanks a lot to AOE to provide such a cool tech radar implementation!
+The Agile Radar is a form of the [Haufe Technology radar](https://github.com/Haufe-Lexware/aoe_technology_radar) (which again is a fork of the AOE technology radar, that you can find on [https://github.com/AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar).
+Thanks a lot to those two companies to provide the radar implementation and it's extensions!
 
 ## Deployment
 
@@ -48,31 +48,6 @@ docker run -e SERVER_NAMES=localhost -p "8080:80" haufetechradar
 
 ```
 
-## Available instances ##
-
-We have two available instances running on Azure.
-
-### Test-Version ###
-
-The test version is available at [http://hg-tr-test.westeurope.cloudapp.azure.com/techradar/](http://hg-tr-test.westeurope.cloudapp.azure.com/techradar/).
-It reflects the content and version of the **PrepareContent** branch.
-A new deployment is triggered whenever the branch **PrepareContent** is changed.
-
-### Prod-Version ###
-
-The production version is available at [http://techradar.haufe.io](http://techradar.haufe.io).
-It reflects the content and version of the **master** branch.
-A new deployment is triggered whenever the branch **master** is changed.
-[http://techradar.haufe.io](http://techradar.haufe.io) is equivalent to [http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/](http://hg-tr-prod.westeurope.cloudapp.azure.com/techradar/).
-
-## Contribute to the Tech Radar
-
-[To see instructions on how to contribute content, click here.](docs/contribute-to-tech-radar.md)
-
-## List of responsibles ###
-Editors for technologies can be found in the [technology List](./technologylist.md).
-
 ## Todos
 
-- [x] Work on the content 
-- [x] Implement circle diagram view of the data
+- [ ] Change the tech radar to be suitable for tracking agile methods
