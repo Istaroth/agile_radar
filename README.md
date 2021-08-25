@@ -16,7 +16,7 @@ A static site generator for an Agile Radar (derived from TechRadars by AOE and H
 
 ## Original version
 
-The Agile Radar is a form of the [Haufe Technology radar](https://github.com/Haufe-Lexware/aoe_technology_radar) (which again is a fork of the AOE technology radar, that you can find on [https://github.com/AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar).
+The Agile Radar is a fork of the [Haufe Technology radar](https://github.com/Haufe-Lexware/aoe_technology_radar) (which again is a fork of the AOE technology radar, that you can find on [https://github.com/AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar).
 Thanks a lot to those two companies to provide the radar implementation and it's extensions!
 
 ## Deployment
